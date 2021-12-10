@@ -1,0 +1,13 @@
+name: BC_Developing_Cancer_app
+title: BC_Developing_Cancer_app
+username:
+account: switham
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5280566
+bundleId: 5336983
+url: https://switham.shinyapps.io/BC_Developing_Cancer_app/
+when: 1638838581.6702
+lastSyncTime: 1638838581.67022
+asMultiple: FALSE
+asStatic: FALSE

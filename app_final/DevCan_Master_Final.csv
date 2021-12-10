@@ -1,0 +1,1405 @@
+Sex,Year,Site,Region,Estimate,Lower Limit 95%,Upper Limit 95%,Estimate '1 in',Lower Limit 95% '1 in',Upper Limit 95% '1 in'
+Males,1991,Melanoma,British Columbia,1.09%,0.93%,1.27%,92,107,78
+Females,1991,Melanoma,British Columbia,1.25%,1.09%,1.44%,80,92,69
+Males,1992,Melanoma,British Columbia,1.30%,1.13%,1.49%,77,88,67
+Females,1992,Melanoma,British Columbia,1.20%,1.04%,1.38%,84,96,72
+Males,1993,Melanoma,British Columbia,1.32%,1.15%,1.52%,76,87,66
+Females,1993,Melanoma,British Columbia,1.31%,1.14%,1.51%,76,88,66
+Males,1994,Melanoma,British Columbia,1.30%,1.14%,1.50%,77,88,67
+Females,1994,Melanoma,British Columbia,1.13%,0.98%,1.30%,89,102,77
+Males,1995,Melanoma,British Columbia,1.35%,1.18%,1.54%,74,84,65
+Females,1995,Melanoma,British Columbia,1.20%,1.04%,1.38%,84,96,72
+Males,1996,Melanoma,British Columbia,1.50%,1.32%,1.71%,67,76,58
+Females,1996,Melanoma,British Columbia,1.20%,1.04%,1.38%,83,96,72
+Males,1997,Melanoma,British Columbia,1.55%,1.37%,1.76%,65,73,57
+Females,1997,Melanoma,British Columbia,1.16%,1.01%,1.33%,86,99,75
+Males,1998,Melanoma,British Columbia,1.47%,1.29%,1.68%,68,77,59
+Females,1998,Melanoma,British Columbia,1.13%,0.98%,1.30%,89,102,77
+Males,1999,Melanoma,British Columbia,1.52%,1.34%,1.73%,66,75,58
+Females,1999,Melanoma,British Columbia,1.15%,1.00%,1.33%,87,100,75
+Males,2000,Melanoma,British Columbia,1.57%,1.38%,1.79%,64,72,56
+Females,2000,Melanoma,British Columbia,1.23%,1.07%,1.41%,82,93,71
+Males,2001,Melanoma,British Columbia,1.86%,1.67%,2.08%,54,60,48
+Females,2001,Melanoma,British Columbia,1.45%,1.28%,1.64%,69,78,61
+Males,2002,Melanoma,British Columbia,1.69%,1.51%,1.91%,59,66,52
+Females,2002,Melanoma,British Columbia,1.33%,1.17%,1.51%,75,85,66
+Males,2003,Melanoma,British Columbia,1.84%,1.65%,2.06%,54,61,49
+Females,2003,Melanoma,British Columbia,1.33%,1.18%,1.51%,75,85,66
+Males,2004,Melanoma,British Columbia,1.83%,1.64%,2.06%,55,61,49
+Females,2004,Melanoma,British Columbia,1.40%,1.24%,1.58%,71,81,63
+Males,2005,Melanoma,British Columbia,1.66%,1.48%,1.86%,60,67,54
+Females,2005,Melanoma,British Columbia,1.48%,1.32%,1.67%,67,76,60
+Males,2006,Melanoma,British Columbia,1.88%,1.68%,2.10%,53,59,48
+Females,2006,Melanoma,British Columbia,1.37%,1.21%,1.54%,73,82,65
+Males,2007,Melanoma,British Columbia,2.23%,2.01%,2.47%,45,50,41
+Females,2007,Melanoma,British Columbia,1.60%,1.43%,1.79%,63,70,56
+Males,2008,Melanoma,British Columbia,2.12%,1.92%,2.35%,47,52,43
+Females,2008,Melanoma,British Columbia,1.85%,1.67%,2.05%,54,60,49
+Males,2009,Melanoma,British Columbia,2.22%,2.02%,2.45%,45,49,41
+Females,2009,Melanoma,British Columbia,1.53%,1.37%,1.71%,65,73,59
+Males,2010,Melanoma,British Columbia,2.39%,2.17%,2.63%,42,46,38
+Females,2010,Melanoma,British Columbia,1.97%,1.78%,2.17%,51,56,46
+Males,2011,Melanoma,British Columbia,2.57%,2.35%,2.82%,39,43,35
+Females,2011,Melanoma,British Columbia,2.05%,1.86%,2.26%,49,54,44
+Males,2012,Melanoma,British Columbia,2.53%,2.30%,2.78%,40,43,36
+Females,2012,Melanoma,British Columbia,1.88%,1.71%,2.08%,53,59,48
+Males,2013,Melanoma,British Columbia,2.78%,2.55%,3.04%,36,39,33
+Females,2013,Melanoma,British Columbia,1.96%,1.78%,2.16%,51,56,46
+Males,2014,Melanoma,British Columbia,2.54%,2.32%,2.78%,39,43,36
+Females,2014,Melanoma,British Columbia,1.94%,1.76%,2.14%,52,57,47
+Males,2015,Melanoma,British Columbia,2.41%,2.20%,2.63%,42,45,38
+Females,2015,Melanoma,British Columbia,1.86%,1.69%,2.05%,54,59,49
+Males,2016,Melanoma,British Columbia,2.46%,2.25%,2.70%,41,44,37
+Females,2016,Melanoma,British Columbia,1.90%,1.73%,2.10%,53,58,48
+Males,2017,Melanoma,British Columbia,2.53%,2.33%,2.76%,39,43,36
+Females,2017,Melanoma,British Columbia,2.10%,1.91%,2.30%,48,52,43
+Males,1991,Prostate,British Columbia,17.30%,16.56%,18.07%,6,6,6
+Females,1991,Prostate,British Columbia,*0.00%,0.00%,0.06%,*-,-,1619
+Males,1992,Prostate,British Columbia,17.85%,17.11%,18.62%,6,6,5
+Females,1992,Prostate,British Columbia,*0.00%,0.00%,0.06%,*-,-,1704
+Males,1993,Prostate,British Columbia,19.82%,19.07%,20.61%,5,5,5
+Females,1993,Prostate,British Columbia,*0.00%,0.00%,0.06%,*-,-,1774
+Males,1994,Prostate,British Columbia,16.79%,16.10%,17.51%,6,6,6
+Females,1994,Prostate,British Columbia,*0.00%,0.00%,0.06%,*-,-,1817
+Males,1995,Prostate,British Columbia,14.36%,13.73%,15.03%,7,7,7
+Females,1995,Prostate,British Columbia,*0.00%,0.00%,0.06%,*-,-,1802
+Males,1996,Prostate,British Columbia,15.03%,14.40%,15.70%,7,7,6
+Females,1996,Prostate,British Columbia,*0.00%,0.00%,0.05%,*-,-,1945
+Males,1997,Prostate,British Columbia,15.62%,14.99%,16.29%,6,7,6
+Females,1997,Prostate,British Columbia,*0.00%,0.00%,0.05%,*-,-,1877
+Males,1998,Prostate,British Columbia,14.97%,14.35%,15.63%,7,7,6
+Females,1998,Prostate,British Columbia,*0.00%,0.00%,0.05%,*-,-,2079
+Males,1999,Prostate,British Columbia,17.61%,16.94%,18.30%,6,6,5
+Females,1999,Prostate,British Columbia,*0.00%,0.00%,0.05%,*-,-,1990
+Males,2000,Prostate,British Columbia,17.93%,17.24%,18.65%,6,6,5
+Females,2000,Prostate,British Columbia,*0.00%,0.00%,0.05%,*-,-,2003
+Males,2001,Prostate,British Columbia,16.80%,16.16%,17.47%,6,6,6
+Females,2001,Prostate,British Columbia,*0.00%,0.00%,0.05%,*-,-,2079
+Males,2002,Prostate,British Columbia,16.13%,15.50%,16.78%,6,6,6
+Females,2002,Prostate,British Columbia,*0.00%,0.00%,0.04%,*-,-,2300
+Males,2003,Prostate,British Columbia,14.64%,14.05%,15.27%,7,7,7
+Females,2003,Prostate,British Columbia,*0.00%,0.00%,0.04%,*-,-,2402
+Males,2004,Prostate,British Columbia,13.84%,13.27%,14.43%,7,8,7
+Females,2004,Prostate,British Columbia,*0.00%,0.00%,0.04%,*-,-,2467
+Males,2005,Prostate,British Columbia,14.52%,13.94%,15.13%,7,7,7
+Females,2005,Prostate,British Columbia,*0.00%,0.00%,0.04%,*-,-,2425
+Males,2006,Prostate,British Columbia,16.15%,15.54%,16.78%,6,6,6
+Females,2006,Prostate,British Columbia,*0.00%,0.00%,0.04%,*-,-,2575
+Males,2007,Prostate,British Columbia,17.01%,16.40%,17.64%,6,6,6
+Females,2007,Prostate,British Columbia,*0.00%,0.00%,0.04%,*-,-,2597
+Males,2008,Prostate,British Columbia,15.96%,15.37%,16.57%,6,7,6
+Females,2008,Prostate,British Columbia,*0.00%,0.00%,0.04%,*-,-,2711
+Males,2009,Prostate,British Columbia,15.77%,15.19%,16.37%,6,7,6
+Females,2009,Prostate,British Columbia,*0.00%,0.00%,0.04%,*-,-,2606
+Males,2010,Prostate,British Columbia,15.45%,14.88%,16.04%,6,7,6
+Females,2010,Prostate,British Columbia,*0.00%,0.00%,0.04%,*-,-,2628
+Males,2011,Prostate,British Columbia,15.88%,15.31%,16.47%,6,7,6
+Females,2011,Prostate,British Columbia,*0.00%,0.00%,0.04%,*-,-,2782
+Males,2012,Prostate,British Columbia,14.65%,14.11%,15.21%,7,7,7
+Females,2012,Prostate,British Columbia,*0.00%,0.00%,0.03%,*-,-,2917
+Males,2013,Prostate,British Columbia,13.47%,12.95%,14.01%,7,8,7
+Females,2013,Prostate,British Columbia,*0.00%,0.00%,0.03%,*-,-,2977
+Males,2014,Prostate,British Columbia,11.83%,11.34%,12.33%,8,9,8
+Females,2014,Prostate,British Columbia,*0.00%,0.00%,0.03%,*-,-,3009
+Males,2015,Prostate,British Columbia,11.39%,10.93%,11.88%,9,9,8
+Females,2015,Prostate,British Columbia,*0.00%,0.00%,0.03%,*-,-,3262
+Males,2016,Prostate,British Columbia,12.22%,11.75%,12.70%,8,9,8
+Females,2016,Prostate,British Columbia,*0.00%,0.00%,0.03%,*-,-,3287
+Males,2017,Prostate,British Columbia,12.00%,11.56%,12.47%,8,9,8
+Females,2017,Prostate,British Columbia,*0.00%,0.00%,0.03%,"*33,249","1,313,274",3149
+Males,1991,Colorectal,British Columbia,6.49%,6.05%,6.95%,15,17,14
+Females,1991,Colorectal,British Columbia,5.65%,5.22%,6.11%,18,19,16
+Males,1992,Colorectal,British Columbia,6.68%,6.24%,7.15%,15,16,14
+Females,1992,Colorectal,British Columbia,5.94%,5.52%,6.40%,17,18,16
+Males,1993,Colorectal,British Columbia,6.57%,6.15%,7.03%,15,16,14
+Females,1993,Colorectal,British Columbia,6.10%,5.67%,6.56%,16,18,15
+Males,1994,Colorectal,British Columbia,6.74%,6.31%,7.20%,15,16,14
+Females,1994,Colorectal,British Columbia,5.74%,5.34%,6.18%,17,19,16
+Males,1995,Colorectal,British Columbia,6.39%,5.98%,6.84%,16,17,15
+Females,1995,Colorectal,British Columbia,5.83%,5.42%,6.27%,17,18,16
+Males,1996,Colorectal,British Columbia,6.11%,5.72%,6.53%,16,17,15
+Females,1996,Colorectal,British Columbia,6.02%,5.61%,6.45%,17,18,15
+Males,1997,Colorectal,British Columbia,6.81%,6.39%,7.27%,15,16,14
+Females,1997,Colorectal,British Columbia,5.77%,5.38%,6.18%,17,19,16
+Males,1998,Colorectal,British Columbia,6.95%,6.52%,7.40%,14,15,14
+Females,1998,Colorectal,British Columbia,5.87%,5.48%,6.29%,17,18,16
+Males,1999,Colorectal,British Columbia,7.19%,6.76%,7.64%,14,15,13
+Females,1999,Colorectal,British Columbia,6.02%,5.62%,6.45%,17,18,16
+Males,2000,Colorectal,British Columbia,7.70%,7.25%,8.19%,13,14,12
+Females,2000,Colorectal,British Columbia,6.82%,6.39%,7.27%,15,16,14
+Males,2001,Colorectal,British Columbia,7.16%,6.74%,7.62%,14,15,13
+Females,2001,Colorectal,British Columbia,6.41%,6.01%,6.85%,16,17,15
+Males,2002,Colorectal,British Columbia,6.97%,6.56%,7.41%,14,15,13
+Females,2002,Colorectal,British Columbia,6.23%,5.84%,6.63%,16,17,15
+Males,2003,Colorectal,British Columbia,7.18%,6.76%,7.63%,14,15,13
+Females,2003,Colorectal,British Columbia,6.33%,5.93%,6.74%,16,17,15
+Males,2004,Colorectal,British Columbia,7.36%,6.94%,7.82%,14,14,13
+Females,2004,Colorectal,British Columbia,6.07%,5.70%,6.47%,16,18,15
+Males,2005,Colorectal,British Columbia,7.41%,7.00%,7.85%,13,14,13
+Females,2005,Colorectal,British Columbia,6.32%,5.93%,6.73%,16,17,15
+Males,2006,Colorectal,British Columbia,7.36%,6.95%,7.80%,14,14,13
+Females,2006,Colorectal,British Columbia,6.29%,5.91%,6.69%,16,17,15
+Males,2007,Colorectal,British Columbia,7.44%,7.03%,7.88%,13,14,13
+Females,2007,Colorectal,British Columbia,6.19%,5.82%,6.59%,16,17,15
+Males,2008,Colorectal,British Columbia,7.52%,7.11%,7.95%,13,14,13
+Females,2008,Colorectal,British Columbia,6.39%,6.01%,6.79%,16,17,15
+Males,2009,Colorectal,British Columbia,7.84%,7.42%,8.30%,13,13,12
+Females,2009,Colorectal,British Columbia,6.39%,6.02%,6.79%,16,17,15
+Males,2010,Colorectal,British Columbia,7.90%,7.48%,8.34%,13,13,12
+Females,2010,Colorectal,British Columbia,6.81%,6.42%,7.22%,15,16,14
+Males,2011,Colorectal,British Columbia,7.62%,7.22%,8.05%,13,14,12
+Females,2011,Colorectal,British Columbia,6.68%,6.30%,7.08%,15,16,14
+Males,2012,Colorectal,British Columbia,8.28%,7.86%,8.72%,12,13,11
+Females,2012,Colorectal,British Columbia,7.35%,6.95%,7.77%,14,14,13
+Males,2013,Colorectal,British Columbia,8.44%,8.02%,8.88%,12,12,11
+Females,2013,Colorectal,British Columbia,7.25%,6.86%,7.66%,14,15,13
+Males,2014,Colorectal,British Columbia,8.68%,8.26%,9.12%,12,12,11
+Females,2014,Colorectal,British Columbia,7.14%,6.76%,7.54%,14,15,13
+Males,2015,Colorectal,British Columbia,8.10%,7.70%,8.51%,12,13,12
+Females,2015,Colorectal,British Columbia,6.53%,6.18%,6.90%,15,16,14
+Males,2016,Colorectal,British Columbia,6.85%,6.51%,7.22%,15,15,14
+Females,2016,Colorectal,British Columbia,6.00%,5.66%,6.35%,17,18,16
+Males,2017,Colorectal,British Columbia,6.36%,6.03%,6.70%,16,17,15
+Females,2017,Colorectal,British Columbia,5.64%,5.31%,5.98%,18,19,17
+Males,1991,Breast,British Columbia,*0.12%,0.06%,0.21%,*868,"1,610",473
+Females,1991,Breast,British Columbia,13.17%,12.57%,13.81%,8,8,7
+Males,1992,Breast,British Columbia,*0.08%,0.04%,0.17%,"*1,217","2,389",602
+Females,1992,Breast,British Columbia,13.01%,12.42%,13.63%,8,8,7
+Males,1993,Breast,British Columbia,*0.05%,0.02%,0.12%,"*1,972","4,362",842
+Females,1993,Breast,British Columbia,12.70%,12.13%,13.30%,8,8,8
+Males,1994,Breast,British Columbia,*0.08%,0.04%,0.16%,"*1,241","2,362",626
+Females,1994,Breast,British Columbia,12.43%,11.87%,13.00%,8,8,8
+Males,1995,Breast,British Columbia,*0.08%,0.04%,0.15%,"*1,325","2,579",653
+Females,1995,Breast,British Columbia,12.40%,11.85%,12.97%,8,8,8
+Males,1996,Breast,British Columbia,*0.10%,0.06%,0.18%,*999,"1,696",569
+Females,1996,Breast,British Columbia,12.42%,11.89%,12.98%,8,8,8
+Males,1997,Breast,British Columbia,*0.11%,0.06%,0.19%,*912,"1,616",513
+Females,1997,Breast,British Columbia,13.15%,12.60%,13.73%,8,8,7
+Males,1998,Breast,British Columbia,*0.11%,0.07%,0.20%,*876,"1,512",500
+Females,1998,Breast,British Columbia,12.97%,12.44%,13.53%,8,8,7
+Males,1999,Breast,British Columbia,*0.11%,0.07%,0.19%,*891,"1,482",524
+Females,1999,Breast,British Columbia,12.89%,12.36%,13.43%,8,8,7
+Males,2000,Breast,British Columbia,*0.08%,0.04%,0.16%,"*1,200","2,225",618
+Females,2000,Breast,British Columbia,12.35%,11.83%,12.89%,8,8,8
+Males,2001,Breast,British Columbia,*0.11%,0.06%,0.20%,*883,"1,586",496
+Females,2001,Breast,British Columbia,12.20%,11.69%,12.73%,8,9,8
+Males,2002,Breast,British Columbia,*0.10%,0.06%,0.18%,*987,"1,703",550
+Females,2002,Breast,British Columbia,12.27%,11.78%,12.79%,8,8,8
+Males,2003,Breast,British Columbia,*0.14%,0.08%,0.23%,*733,"1,193",444
+Females,2003,Breast,British Columbia,11.57%,11.09%,12.06%,9,9,8
+Males,2004,Breast,British Columbia,*0.09%,0.04%,0.17%,"*1,164","2,431",589
+Females,2004,Breast,British Columbia,11.67%,11.19%,12.17%,9,9,8
+Males,2005,Breast,British Columbia,*0.06%,0.03%,0.12%,"*1,734","3,565",815
+Females,2005,Breast,British Columbia,12.24%,11.75%,12.75%,8,9,8
+Males,2006,Breast,British Columbia,*0.09%,0.05%,0.16%,"*1,142","1,988",631
+Females,2006,Breast,British Columbia,12.02%,11.54%,12.51%,8,9,8
+Males,2007,Breast,British Columbia,*0.11%,0.07%,0.19%,*887,"1,425",537
+Females,2007,Breast,British Columbia,12.39%,11.90%,12.89%,8,8,8
+Males,2008,Breast,British Columbia,*0.11%,0.06%,0.18%,*934,"1,601",544
+Females,2008,Breast,British Columbia,12.35%,11.88%,12.85%,8,8,8
+Males,2009,Breast,British Columbia,*0.13%,0.08%,0.22%,*760,"1,234",465
+Females,2009,Breast,British Columbia,12.85%,12.37%,13.35%,8,8,7
+Males,2010,Breast,British Columbia,0.13%,0.08%,0.20%,783,"1,179",499
+Females,2010,Breast,British Columbia,13.63%,13.14%,14.15%,7,8,7
+Males,2011,Breast,British Columbia,*0.08%,0.04%,0.15%,"*1,247","2,286",673
+Females,2011,Breast,British Columbia,14.46%,13.96%,14.99%,7,7,7
+Males,2012,Breast,British Columbia,0.14%,0.09%,0.22%,703,"1,056",460
+Females,2012,Breast,British Columbia,13.38%,12.90%,13.89%,7,8,7
+Males,2013,Breast,British Columbia,0.14%,0.10%,0.22%,695,"1,032",458
+Females,2013,Breast,British Columbia,13.69%,13.20%,14.19%,7,8,7
+Males,2014,Breast,British Columbia,0.14%,0.10%,0.21%,708,"1,045",469
+Females,2014,Breast,British Columbia,13.68%,13.20%,14.18%,7,8,7
+Males,2015,Breast,British Columbia,*0.10%,0.06%,0.17%,*962,"1,579",588
+Females,2015,Breast,British Columbia,13.32%,12.85%,13.80%,8,8,7
+Males,2016,Breast,British Columbia,0.12%,0.08%,0.18%,843,"1,279",549
+Females,2016,Breast,British Columbia,13.43%,12.96%,13.91%,7,8,7
+Males,2017,Breast,British Columbia,*0.08%,0.04%,0.13%,"*1,317","2,239",772
+Females,2017,Breast,British Columbia,13.11%,12.66%,13.58%,8,8,7
+Males,1991,Kidney,British Columbia,1.24%,1.06%,1.44%,81,94,69
+Females,1991,Kidney,British Columbia,0.84%,0.69%,1.03%,118,145,97
+Males,1992,Kidney,British Columbia,1.30%,1.12%,1.51%,77,89,66
+Females,1992,Kidney,British Columbia,0.80%,0.66%,0.98%,125,152,102
+Males,1993,Kidney,British Columbia,1.31%,1.14%,1.52%,76,88,66
+Females,1993,Kidney,British Columbia,0.74%,0.61%,0.90%,135,164,111
+Males,1994,Kidney,British Columbia,1.32%,1.14%,1.52%,76,87,66
+Females,1994,Kidney,British Columbia,0.76%,0.63%,0.92%,132,159,109
+Males,1995,Kidney,British Columbia,1.25%,1.08%,1.45%,80,92,69
+Females,1995,Kidney,British Columbia,0.78%,0.64%,0.95%,128,156,106
+Males,1996,Kidney,British Columbia,1.26%,1.10%,1.45%,79,91,69
+Females,1996,Kidney,British Columbia,0.80%,0.67%,0.96%,125,150,104
+Males,1997,Kidney,British Columbia,1.37%,1.19%,1.58%,73,84,63
+Females,1997,Kidney,British Columbia,0.73%,0.60%,0.89%,138,168,113
+Males,1998,Kidney,British Columbia,1.23%,1.07%,1.42%,81,93,70
+Females,1998,Kidney,British Columbia,0.67%,0.54%,0.82%,150,184,122
+Males,1999,Kidney,British Columbia,1.32%,1.15%,1.53%,76,87,66
+Females,1999,Kidney,British Columbia,0.79%,0.66%,0.96%,126,152,104
+Males,2000,Kidney,British Columbia,1.32%,1.15%,1.52%,76,87,66
+Females,2000,Kidney,British Columbia,0.84%,0.70%,1.01%,118,142,99
+Males,2001,Kidney,British Columbia,1.17%,1.01%,1.35%,86,99,74
+Females,2001,Kidney,British Columbia,0.89%,0.75%,1.06%,113,134,95
+Males,2002,Kidney,British Columbia,1.31%,1.14%,1.50%,77,87,67
+Females,2002,Kidney,British Columbia,0.89%,0.75%,1.05%,112,133,95
+Males,2003,Kidney,British Columbia,1.31%,1.15%,1.51%,76,87,66
+Females,2003,Kidney,British Columbia,0.78%,0.65%,0.93%,129,154,108
+Males,2004,Kidney,British Columbia,1.28%,1.11%,1.47%,78,90,68
+Females,2004,Kidney,British Columbia,0.75%,0.63%,0.90%,133,159,112
+Males,2005,Kidney,British Columbia,1.30%,1.14%,1.50%,77,88,67
+Females,2005,Kidney,British Columbia,0.79%,0.67%,0.94%,126,150,106
+Males,2006,Kidney,British Columbia,1.42%,1.25%,1.61%,71,80,62
+Females,2006,Kidney,British Columbia,0.84%,0.72%,0.99%,118,139,101
+Males,2007,Kidney,British Columbia,1.60%,1.42%,1.81%,62,71,55
+Females,2007,Kidney,British Columbia,0.93%,0.80%,1.09%,107,126,92
+Males,2008,Kidney,British Columbia,1.38%,1.22%,1.57%,72,82,64
+Females,2008,Kidney,British Columbia,0.83%,0.70%,0.98%,121,142,102
+Males,2009,Kidney,British Columbia,1.57%,1.39%,1.77%,64,72,56
+Females,2009,Kidney,British Columbia,0.93%,0.80%,1.08%,107,125,92
+Males,2010,Kidney,British Columbia,1.64%,1.46%,1.85%,61,69,54
+Females,2010,Kidney,British Columbia,0.89%,0.76%,1.04%,113,132,96
+Males,2011,Kidney,British Columbia,1.84%,1.65%,2.05%,54,61,49
+Females,2011,Kidney,British Columbia,0.84%,0.72%,0.99%,119,139,101
+Males,2012,Kidney,British Columbia,2.18%,1.98%,2.41%,46,51,42
+Females,2012,Kidney,British Columbia,1.14%,1.00%,1.31%,87,100,76
+Males,2013,Kidney,British Columbia,1.68%,1.50%,1.88%,60,66,53
+Females,2013,Kidney,British Columbia,0.96%,0.83%,1.12%,104,121,90
+Males,2014,Kidney,British Columbia,1.95%,1.76%,2.16%,51,57,46
+Females,2014,Kidney,British Columbia,0.89%,0.76%,1.03%,112,131,97
+Males,2015,Kidney,British Columbia,2.04%,1.85%,2.25%,49,54,45
+Females,2015,Kidney,British Columbia,1.15%,1.01%,1.31%,87,99,77
+Males,2016,Kidney,British Columbia,1.88%,1.71%,2.07%,53,59,48
+Females,2016,Kidney,British Columbia,1.10%,0.97%,1.25%,91,104,80
+Males,2017,Kidney,British Columbia,2.08%,1.90%,2.27%,48,53,44
+Females,2017,Kidney,British Columbia,1.21%,1.07%,1.36%,83,93,73
+Males,1991,Liver,British Columbia,0.49%,0.37%,0.64%,205,268,157
+Females,1991,Liver,British Columbia,0.27%,0.18%,0.40%,371,547,252
+Males,1992,Liver,British Columbia,0.43%,0.33%,0.56%,232,299,177
+Females,1992,Liver,British Columbia,0.27%,0.19%,0.39%,364,522,254
+Males,1993,Liver,British Columbia,0.52%,0.41%,0.65%,194,243,153
+Females,1993,Liver,British Columbia,0.27%,0.19%,0.38%,376,536,264
+Males,1994,Liver,British Columbia,0.59%,0.47%,0.73%,170,212,136
+Females,1994,Liver,British Columbia,0.25%,0.17%,0.36%,407,594,280
+Males,1995,Liver,British Columbia,0.51%,0.40%,0.65%,197,250,154
+Females,1995,Liver,British Columbia,0.29%,0.20%,0.41%,348,491,246
+Males,1996,Liver,British Columbia,0.63%,0.51%,0.77%,159,195,129
+Females,1996,Liver,British Columbia,0.32%,0.23%,0.44%,316,441,228
+Males,1997,Liver,British Columbia,0.57%,0.47%,0.71%,175,215,141
+Females,1997,Liver,British Columbia,0.24%,0.17%,0.35%,413,589,289
+Males,1998,Liver,British Columbia,0.53%,0.43%,0.67%,189,235,150
+Females,1998,Liver,British Columbia,0.34%,0.25%,0.45%,295,397,220
+Males,1999,Liver,British Columbia,0.58%,0.47%,0.72%,173,214,140
+Females,1999,Liver,British Columbia,0.18%,0.12%,0.28%,545,834,358
+Males,2000,Liver,British Columbia,0.73%,0.60%,0.88%,138,166,114
+Females,2000,Liver,British Columbia,0.30%,0.22%,0.41%,335,456,245
+Males,2001,Liver,British Columbia,0.83%,0.71%,0.99%,120,141,101
+Females,2001,Liver,British Columbia,0.36%,0.27%,0.49%,275,374,204
+Males,2002,Liver,British Columbia,0.75%,0.63%,0.91%,133,159,110
+Females,2002,Liver,British Columbia,0.23%,0.16%,0.32%,441,636,308
+Males,2003,Liver,British Columbia,0.83%,0.70%,0.99%,120,142,101
+Females,2003,Liver,British Columbia,0.33%,0.25%,0.44%,303,402,228
+Males,2004,Liver,British Columbia,0.71%,0.60%,0.86%,141,168,117
+Females,2004,Liver,British Columbia,0.28%,0.21%,0.38%,353,479,261
+Males,2005,Liver,British Columbia,0.76%,0.65%,0.91%,131,155,110
+Females,2005,Liver,British Columbia,0.27%,0.19%,0.37%,372,513,271
+Males,2006,Liver,British Columbia,0.77%,0.65%,0.91%,130,154,110
+Females,2006,Liver,British Columbia,0.27%,0.20%,0.37%,364,494,269
+Males,2007,Liver,British Columbia,0.77%,0.66%,0.91%,129,152,109
+Females,2007,Liver,British Columbia,0.32%,0.25%,0.42%,310,406,237
+Males,2008,Liver,British Columbia,0.89%,0.77%,1.04%,112,130,96
+Females,2008,Liver,British Columbia,0.35%,0.27%,0.45%,283,365,220
+Males,2009,Liver,British Columbia,1.01%,0.88%,1.17%,99,113,85
+Females,2009,Liver,British Columbia,0.33%,0.25%,0.42%,305,394,235
+Males,2010,Liver,British Columbia,0.90%,0.77%,1.05%,112,130,95
+Females,2010,Liver,British Columbia,0.28%,0.21%,0.37%,362,483,271
+Males,2011,Liver,British Columbia,0.97%,0.84%,1.12%,103,119,89
+Females,2011,Liver,British Columbia,0.36%,0.28%,0.47%,275,359,213
+Males,2012,Liver,British Columbia,1.21%,1.07%,1.37%,83,94,73
+Females,2012,Liver,British Columbia,0.47%,0.38%,0.59%,211,264,170
+Males,2013,Liver,British Columbia,1.26%,1.12%,1.43%,79,90,70
+Females,2013,Liver,British Columbia,0.46%,0.37%,0.57%,217,269,175
+Males,2014,Liver,British Columbia,1.21%,1.07%,1.37%,83,94,73
+Females,2014,Liver,British Columbia,0.50%,0.41%,0.62%,199,246,161
+Males,2015,Liver,British Columbia,1.40%,1.25%,1.56%,72,80,64
+Females,2015,Liver,British Columbia,0.55%,0.46%,0.67%,180,219,149
+Males,2016,Liver,British Columbia,1.33%,1.19%,1.49%,75,84,67
+Females,2016,Liver,British Columbia,0.47%,0.39%,0.58%,211,258,173
+Males,2017,Liver,British Columbia,1.35%,1.21%,1.51%,74,82,66
+Females,2017,Liver,British Columbia,0.47%,0.38%,0.58%,213,263,173
+Males,1991,Lung,British Columbia,8.59%,8.10%,9.12%,12,12,11
+Females,1991,Lung,British Columbia,5.48%,5.10%,5.89%,18,20,17
+Males,1992,Lung,British Columbia,8.69%,8.20%,9.21%,12,12,11
+Females,1992,Lung,British Columbia,6.00%,5.60%,6.43%,17,18,16
+Males,1993,Lung,British Columbia,8.42%,7.94%,8.93%,12,13,11
+Females,1993,Lung,British Columbia,6.24%,5.84%,6.68%,16,17,15
+Males,1994,Lung,British Columbia,7.99%,7.53%,8.48%,13,13,12
+Females,1994,Lung,British Columbia,5.44%,5.07%,5.84%,18,20,17
+Males,1995,Lung,British Columbia,8.41%,7.93%,8.91%,12,13,11
+Females,1995,Lung,British Columbia,5.82%,5.44%,6.23%,17,18,16
+Males,1996,Lung,British Columbia,8.24%,7.78%,8.73%,12,13,11
+Females,1996,Lung,British Columbia,6.18%,5.80%,6.60%,16,17,15
+Males,1997,Lung,British Columbia,7.80%,7.36%,8.28%,13,14,12
+Females,1997,Lung,British Columbia,6.00%,5.62%,6.41%,17,18,16
+Males,1998,Lung,British Columbia,7.99%,7.54%,8.48%,13,13,12
+Females,1998,Lung,British Columbia,6.17%,5.80%,6.57%,16,17,15
+Males,1999,Lung,British Columbia,8.09%,7.65%,8.56%,12,13,12
+Females,1999,Lung,British Columbia,5.88%,5.51%,6.28%,17,18,16
+Males,2000,Lung,British Columbia,7.63%,7.19%,8.11%,13,14,12
+Females,2000,Lung,British Columbia,6.23%,5.85%,6.63%,16,17,15
+Males,2001,Lung,British Columbia,7.84%,7.40%,8.31%,13,14,12
+Females,2001,Lung,British Columbia,6.25%,5.88%,6.66%,16,17,15
+Males,2002,Lung,British Columbia,7.59%,7.15%,8.05%,13,14,12
+Females,2002,Lung,British Columbia,6.57%,6.18%,6.98%,15,16,14
+Males,2003,Lung,British Columbia,7.84%,7.40%,8.30%,13,14,12
+Females,2003,Lung,British Columbia,6.53%,6.15%,6.93%,15,16,14
+Males,2004,Lung,British Columbia,7.99%,7.55%,8.45%,13,13,12
+Females,2004,Lung,British Columbia,6.66%,6.28%,7.06%,15,16,14
+Males,2005,Lung,British Columbia,7.44%,7.03%,7.88%,13,14,13
+Females,2005,Lung,British Columbia,6.74%,6.37%,7.15%,15,16,14
+Males,2006,Lung,British Columbia,7.53%,7.11%,7.98%,13,14,13
+Females,2006,Lung,British Columbia,6.68%,6.31%,7.08%,15,16,14
+Males,2007,Lung,British Columbia,8.03%,7.60%,8.48%,12,13,12
+Females,2007,Lung,British Columbia,7.32%,6.93%,7.74%,14,14,13
+Males,2008,Lung,British Columbia,7.55%,7.15%,7.99%,13,14,13
+Females,2008,Lung,British Columbia,6.75%,6.38%,7.14%,15,16,14
+Males,2009,Lung,British Columbia,7.57%,7.16%,8.00%,13,14,13
+Females,2009,Lung,British Columbia,7.35%,6.96%,7.76%,14,14,13
+Males,2010,Lung,British Columbia,7.56%,7.15%,7.99%,13,14,13
+Females,2010,Lung,British Columbia,6.88%,6.51%,7.28%,15,15,14
+Males,2011,Lung,British Columbia,7.32%,6.93%,7.74%,14,14,13
+Females,2011,Lung,British Columbia,6.80%,6.44%,7.19%,15,16,14
+Males,2012,Lung,British Columbia,7.66%,7.26%,8.09%,13,14,12
+Females,2012,Lung,British Columbia,7.48%,7.10%,7.89%,13,14,13
+Males,2013,Lung,British Columbia,7.69%,7.27%,8.12%,13,14,12
+Females,2013,Lung,British Columbia,7.56%,7.17%,7.97%,13,14,13
+Males,2014,Lung,British Columbia,7.41%,7.02%,7.83%,13,14,13
+Females,2014,Lung,British Columbia,8.09%,7.69%,8.51%,12,13,12
+Males,2015,Lung,British Columbia,7.74%,7.35%,8.15%,13,14,12
+Females,2015,Lung,British Columbia,8.08%,7.68%,8.49%,12,13,12
+Males,2016,Lung,British Columbia,7.15%,6.78%,7.54%,14,15,13
+Females,2016,Lung,British Columbia,7.63%,7.26%,8.03%,13,14,12
+Males,2017,Lung,British Columbia,6.83%,6.48%,7.20%,15,15,14
+Females,2017,Lung,British Columbia,7.61%,7.24%,8.00%,13,14,13
+Males,1991,Oral,British Columbia,1.57%,1.37%,1.80%,64,73,56
+Females,1991,Oral,British Columbia,0.84%,0.69%,1.03%,118,145,97
+Males,1992,Oral,British Columbia,1.49%,1.31%,1.71%,67,76,59
+Females,1992,Oral,British Columbia,0.89%,0.74%,1.08%,112,135,93
+Males,1993,Oral,British Columbia,1.48%,1.29%,1.70%,68,77,59
+Females,1993,Oral,British Columbia,0.94%,0.79%,1.13%,106,127,88
+Males,1994,Oral,British Columbia,1.37%,1.19%,1.58%,73,84,63
+Females,1994,Oral,British Columbia,0.72%,0.59%,0.88%,140,170,114
+Males,1995,Oral,British Columbia,1.41%,1.23%,1.61%,71,81,62
+Females,1995,Oral,British Columbia,0.70%,0.56%,0.86%,143,177,116
+Males,1996,Oral,British Columbia,1.29%,1.13%,1.48%,77,89,67
+Females,1996,Oral,British Columbia,0.79%,0.66%,0.95%,127,152,106
+Males,1997,Oral,British Columbia,1.42%,1.25%,1.63%,70,80,61
+Females,1997,Oral,British Columbia,0.76%,0.63%,0.93%,131,160,107
+Males,1998,Oral,British Columbia,1.25%,1.09%,1.44%,80,92,70
+Females,1998,Oral,British Columbia,0.67%,0.55%,0.81%,149,181,123
+Males,1999,Oral,British Columbia,1.17%,1.02%,1.35%,85,98,74
+Females,1999,Oral,British Columbia,0.78%,0.65%,0.95%,128,155,105
+Males,2000,Oral,British Columbia,1.34%,1.17%,1.54%,74,85,65
+Females,2000,Oral,British Columbia,0.88%,0.74%,1.05%,113,135,95
+Males,2001,Oral,British Columbia,1.30%,1.14%,1.49%,77,88,67
+Females,2001,Oral,British Columbia,0.71%,0.59%,0.86%,140,169,116
+Males,2002,Oral,British Columbia,1.24%,1.08%,1.43%,81,92,70
+Females,2002,Oral,British Columbia,0.69%,0.57%,0.83%,145,174,120
+Males,2003,Oral,British Columbia,1.33%,1.18%,1.52%,75,85,66
+Females,2003,Oral,British Columbia,0.66%,0.54%,0.80%,152,184,125
+Males,2004,Oral,British Columbia,1.31%,1.15%,1.50%,76,87,67
+Females,2004,Oral,British Columbia,0.63%,0.52%,0.76%,159,191,131
+Males,2005,Oral,British Columbia,1.31%,1.15%,1.49%,76,87,67
+Females,2005,Oral,British Columbia,0.73%,0.61%,0.87%,137,164,114
+Males,2006,Oral,British Columbia,1.08%,0.94%,1.24%,93,106,80
+Females,2006,Oral,British Columbia,0.74%,0.61%,0.89%,135,163,113
+Males,2007,Oral,British Columbia,1.40%,1.24%,1.58%,72,81,63
+Females,2007,Oral,British Columbia,0.75%,0.63%,0.89%,134,160,112
+Males,2008,Oral,British Columbia,1.46%,1.30%,1.64%,69,77,61
+Females,2008,Oral,British Columbia,0.79%,0.67%,0.94%,126,149,107
+Males,2009,Oral,British Columbia,1.41%,1.26%,1.59%,71,79,63
+Females,2009,Oral,British Columbia,0.74%,0.63%,0.88%,134,159,114
+Males,2010,Oral,British Columbia,1.56%,1.40%,1.76%,64,72,57
+Females,2010,Oral,British Columbia,0.79%,0.67%,0.94%,126,150,107
+Males,2011,Oral,British Columbia,1.41%,1.26%,1.59%,71,80,63
+Females,2011,Oral,British Columbia,0.83%,0.70%,0.97%,121,142,103
+Males,2012,Oral,British Columbia,1.46%,1.30%,1.64%,69,77,61
+Females,2012,Oral,British Columbia,0.72%,0.61%,0.86%,138,164,117
+Males,2013,Oral,British Columbia,1.54%,1.38%,1.72%,65,72,58
+Females,2013,Oral,British Columbia,0.80%,0.68%,0.94%,125,146,106
+Males,2014,Oral,British Columbia,1.75%,1.59%,1.94%,57,63,51
+Females,2014,Oral,British Columbia,1.10%,0.95%,1.26%,91,105,79
+Males,2015,Oral,British Columbia,1.73%,1.57%,1.91%,58,64,52
+Females,2015,Oral,British Columbia,0.85%,0.73%,0.99%,118,138,102
+Males,2016,Oral,British Columbia,1.78%,1.62%,1.96%,56,62,51
+Females,2016,Oral,British Columbia,0.84%,0.73%,0.98%,119,138,102
+Males,2017,Oral,British Columbia,1.73%,1.57%,1.91%,58,64,52
+Females,2017,Oral,British Columbia,0.77%,0.66%,0.90%,130,151,112
+Males,1991,Leukemia,British Columbia,1.38%,1.19%,1.61%,73,84,62
+Females,1991,Leukemia,British Columbia,1.05%,0.88%,1.25%,95,113,80
+Males,1992,Leukemia,British Columbia,1.41%,1.22%,1.64%,71,82,61
+Females,1992,Leukemia,British Columbia,1.27%,1.08%,1.50%,79,92,67
+Males,1993,Leukemia,British Columbia,1.31%,1.12%,1.52%,77,89,66
+Females,1993,Leukemia,British Columbia,0.98%,0.82%,1.18%,102,122,85
+Males,1994,Leukemia,British Columbia,1.40%,1.21%,1.62%,72,83,62
+Females,1994,Leukemia,British Columbia,0.99%,0.83%,1.19%,101,120,84
+Males,1995,Leukemia,British Columbia,1.44%,1.25%,1.67%,69,80,60
+Females,1995,Leukemia,British Columbia,0.86%,0.72%,1.04%,116,139,96
+Males,1996,Leukemia,British Columbia,1.46%,1.28%,1.68%,68,78,60
+Females,1996,Leukemia,British Columbia,1.08%,0.91%,1.27%,93,110,79
+Males,1997,Leukemia,British Columbia,1.33%,1.15%,1.54%,75,87,65
+Females,1997,Leukemia,British Columbia,1.08%,0.92%,1.28%,92,109,78
+Males,1998,Leukemia,British Columbia,1.57%,1.37%,1.80%,64,73,56
+Females,1998,Leukemia,British Columbia,1.07%,0.91%,1.25%,94,110,80
+Males,1999,Leukemia,British Columbia,1.56%,1.38%,1.77%,64,73,56
+Females,1999,Leukemia,British Columbia,1.28%,1.11%,1.48%,78,90,67
+Males,2000,Leukemia,British Columbia,1.73%,1.52%,1.97%,58,66,51
+Females,2000,Leukemia,British Columbia,1.11%,0.95%,1.30%,90,105,77
+Males,2001,Leukemia,British Columbia,1.62%,1.43%,1.84%,62,70,54
+Females,2001,Leukemia,British Columbia,1.16%,0.99%,1.35%,86,101,74
+Males,2002,Leukemia,British Columbia,1.54%,1.36%,1.75%,65,74,57
+Females,2002,Leukemia,British Columbia,1.14%,0.98%,1.32%,88,102,76
+Males,2003,Leukemia,British Columbia,1.75%,1.54%,1.98%,57,65,50
+Females,2003,Leukemia,British Columbia,1.16%,1.00%,1.35%,86,100,74
+Males,2004,Leukemia,British Columbia,1.80%,1.60%,2.04%,55,63,49
+Females,2004,Leukemia,British Columbia,1.23%,1.06%,1.41%,82,94,71
+Males,2005,Leukemia,British Columbia,1.71%,1.52%,1.93%,58,66,52
+Females,2005,Leukemia,British Columbia,1.25%,1.09%,1.44%,80,92,69
+Males,2006,Leukemia,British Columbia,2.00%,1.79%,2.23%,50,56,45
+Females,2006,Leukemia,British Columbia,1.57%,1.39%,1.78%,64,72,56
+Males,2007,Leukemia,British Columbia,2.05%,1.85%,2.29%,49,54,44
+Females,2007,Leukemia,British Columbia,1.36%,1.20%,1.55%,73,84,64
+Males,2008,Leukemia,British Columbia,1.99%,1.78%,2.22%,50,56,45
+Females,2008,Leukemia,British Columbia,1.32%,1.16%,1.51%,76,86,66
+Males,2009,Leukemia,British Columbia,2.02%,1.82%,2.24%,50,55,45
+Females,2009,Leukemia,British Columbia,1.50%,1.32%,1.70%,67,76,59
+Males,2010,Leukemia,British Columbia,2.06%,1.86%,2.30%,48,54,44
+Females,2010,Leukemia,British Columbia,1.47%,1.30%,1.66%,68,77,60
+Males,2011,Leukemia,British Columbia,1.92%,1.72%,2.14%,52,58,47
+Females,2011,Leukemia,British Columbia,1.39%,1.22%,1.58%,72,82,63
+Males,2012,Leukemia,British Columbia,2.15%,1.94%,2.38%,47,52,42
+Females,2012,Leukemia,British Columbia,1.48%,1.31%,1.67%,68,76,60
+Males,2013,Leukemia,British Columbia,2.37%,2.15%,2.61%,42,47,38
+Females,2013,Leukemia,British Columbia,1.65%,1.47%,1.85%,61,68,54
+Males,2014,Leukemia,British Columbia,2.01%,1.80%,2.24%,50,55,45
+Females,2014,Leukemia,British Columbia,1.45%,1.29%,1.64%,69,77,61
+Males,2015,Leukemia,British Columbia,2.16%,1.96%,2.39%,46,51,42
+Females,2015,Leukemia,British Columbia,1.28%,1.13%,1.45%,78,88,69
+Males,2016,Leukemia,British Columbia,2.08%,1.89%,2.29%,48,53,44
+Females,2016,Leukemia,British Columbia,1.31%,1.16%,1.48%,76,86,68
+Males,2017,Leukemia,British Columbia,1.59%,1.43%,1.77%,63,70,56
+Females,2017,Leukemia,British Columbia,1.22%,1.07%,1.38%,82,93,72
+Males,1991,Non-Hodgkin Lymphoma,British Columbia,1.65%,1.45%,1.89%,60,69,53
+Females,1991,Non-Hodgkin Lymphoma,British Columbia,1.49%,1.29%,1.73%,67,78,58
+Males,1992,Non-Hodgkin Lymphoma,British Columbia,1.75%,1.55%,1.99%,57,65,50
+Females,1992,Non-Hodgkin Lymphoma,British Columbia,1.51%,1.30%,1.74%,66,77,57
+Males,1993,Non-Hodgkin Lymphoma,British Columbia,2.03%,1.81%,2.29%,49,55,44
+Females,1993,Non-Hodgkin Lymphoma,British Columbia,1.85%,1.63%,2.10%,54,61,48
+Males,1994,Non-Hodgkin Lymphoma,British Columbia,2.04%,1.82%,2.29%,49,55,44
+Females,1994,Non-Hodgkin Lymphoma,British Columbia,1.60%,1.40%,1.83%,62,71,55
+Males,1995,Non-Hodgkin Lymphoma,British Columbia,1.96%,1.74%,2.20%,51,57,45
+Females,1995,Non-Hodgkin Lymphoma,British Columbia,1.52%,1.33%,1.74%,66,75,57
+Males,1996,Non-Hodgkin Lymphoma,British Columbia,1.93%,1.72%,2.17%,52,58,46
+Females,1996,Non-Hodgkin Lymphoma,British Columbia,1.61%,1.42%,1.84%,62,70,54
+Males,1997,Non-Hodgkin Lymphoma,British Columbia,2.10%,1.89%,2.35%,48,53,43
+Females,1997,Non-Hodgkin Lymphoma,British Columbia,1.76%,1.56%,1.99%,57,64,50
+Males,1998,Non-Hodgkin Lymphoma,British Columbia,2.00%,1.79%,2.25%,50,56,44
+Females,1998,Non-Hodgkin Lymphoma,British Columbia,1.96%,1.75%,2.20%,51,57,45
+Males,1999,Non-Hodgkin Lymphoma,British Columbia,2.19%,1.97%,2.44%,46,51,41
+Females,1999,Non-Hodgkin Lymphoma,British Columbia,1.72%,1.52%,1.95%,58,66,51
+Males,2000,Non-Hodgkin Lymphoma,British Columbia,2.31%,2.07%,2.57%,43,48,39
+Females,2000,Non-Hodgkin Lymphoma,British Columbia,1.81%,1.62%,2.04%,55,62,49
+Males,2001,Non-Hodgkin Lymphoma,British Columbia,2.40%,2.17%,2.66%,42,46,38
+Females,2001,Non-Hodgkin Lymphoma,British Columbia,1.84%,1.64%,2.06%,54,61,48
+Males,2002,Non-Hodgkin Lymphoma,British Columbia,2.37%,2.15%,2.62%,42,46,38
+Females,2002,Non-Hodgkin Lymphoma,British Columbia,1.81%,1.61%,2.03%,55,62,49
+Males,2003,Non-Hodgkin Lymphoma,British Columbia,2.40%,2.17%,2.65%,42,46,38
+Females,2003,Non-Hodgkin Lymphoma,British Columbia,2.03%,1.83%,2.26%,49,55,44
+Males,2004,Non-Hodgkin Lymphoma,British Columbia,2.34%,2.12%,2.59%,43,47,39
+Females,2004,Non-Hodgkin Lymphoma,British Columbia,1.93%,1.73%,2.16%,52,58,46
+Males,2005,Non-Hodgkin Lymphoma,British Columbia,2.56%,2.33%,2.82%,39,43,35
+Females,2005,Non-Hodgkin Lymphoma,British Columbia,1.98%,1.78%,2.20%,51,56,46
+Males,2006,Non-Hodgkin Lymphoma,British Columbia,2.55%,2.33%,2.81%,39,43,36
+Females,2006,Non-Hodgkin Lymphoma,British Columbia,2.09%,1.89%,2.31%,48,53,43
+Males,2007,Non-Hodgkin Lymphoma,British Columbia,2.64%,2.40%,2.89%,38,42,35
+Females,2007,Non-Hodgkin Lymphoma,British Columbia,1.90%,1.71%,2.12%,53,58,47
+Males,2008,Non-Hodgkin Lymphoma,British Columbia,2.35%,2.14%,2.59%,43,47,39
+Females,2008,Non-Hodgkin Lymphoma,British Columbia,2.08%,1.88%,2.30%,48,53,43
+Males,2009,Non-Hodgkin Lymphoma,British Columbia,2.57%,2.34%,2.82%,39,43,35
+Females,2009,Non-Hodgkin Lymphoma,British Columbia,2.10%,1.89%,2.32%,48,53,43
+Males,2010,Non-Hodgkin Lymphoma,British Columbia,2.52%,2.30%,2.77%,40,44,36
+Females,2010,Non-Hodgkin Lymphoma,British Columbia,2.06%,1.86%,2.28%,48,54,44
+Males,2011,Non-Hodgkin Lymphoma,British Columbia,2.48%,2.27%,2.72%,40,44,37
+Females,2011,Non-Hodgkin Lymphoma,British Columbia,2.25%,2.04%,2.48%,45,49,40
+Males,2012,Non-Hodgkin Lymphoma,British Columbia,2.62%,2.40%,2.87%,38,42,35
+Females,2012,Non-Hodgkin Lymphoma,British Columbia,2.17%,1.97%,2.39%,46,51,42
+Males,2013,Non-Hodgkin Lymphoma,British Columbia,2.64%,2.42%,2.89%,38,41,35
+Females,2013,Non-Hodgkin Lymphoma,British Columbia,2.27%,2.07%,2.50%,44,48,40
+Males,2014,Non-Hodgkin Lymphoma,British Columbia,2.92%,2.68%,3.18%,34,37,31
+Females,2014,Non-Hodgkin Lymphoma,British Columbia,2.28%,2.07%,2.51%,44,48,40
+Males,2015,Non-Hodgkin Lymphoma,British Columbia,2.65%,2.43%,2.88%,38,41,35
+Females,2015,Non-Hodgkin Lymphoma,British Columbia,2.15%,1.96%,2.36%,46,51,42
+Males,2016,Non-Hodgkin Lymphoma,British Columbia,2.67%,2.45%,2.90%,37,41,34
+Females,2016,Non-Hodgkin Lymphoma,British Columbia,2.13%,1.93%,2.33%,47,52,43
+Males,2017,Non-Hodgkin Lymphoma,British Columbia,2.47%,2.27%,2.69%,40,44,37
+Females,2017,Non-Hodgkin Lymphoma,British Columbia,2.07%,1.88%,2.27%,48,53,44
+Males,1991,Body of Uterus,British Columbia,*0.00%,0.00%,0.06%,*-,-,1563
+Females,1991,Body of Uterus,British Columbia,2.10%,1.87%,2.36%,48,53,42
+Males,1992,Body of Uterus,British Columbia,*0.00%,0.00%,0.06%,*-,-,1543
+Females,1992,Body of Uterus,British Columbia,2.25%,2.01%,2.51%,45,50,40
+Males,1993,Body of Uterus,British Columbia,*0.00%,0.00%,0.06%,*-,-,1738
+Females,1993,Body of Uterus,British Columbia,2.42%,2.18%,2.69%,41,46,37
+Males,1994,Body of Uterus,British Columbia,*0.00%,0.00%,0.06%,*-,-,1629
+Females,1994,Body of Uterus,British Columbia,2.12%,1.89%,2.37%,47,53,42
+Males,1995,Body of Uterus,British Columbia,*0.00%,0.00%,0.06%,*-,-,1645
+Females,1995,Body of Uterus,British Columbia,2.33%,2.10%,2.59%,43,48,39
+Males,1996,Body of Uterus,British Columbia,*0.00%,0.00%,0.05%,*-,-,1857
+Females,1996,Body of Uterus,British Columbia,2.31%,2.08%,2.57%,43,48,39
+Males,1997,Body of Uterus,British Columbia,*0.00%,0.00%,0.06%,*-,-,1775
+Females,1997,Body of Uterus,British Columbia,2.39%,2.17%,2.65%,42,46,38
+Males,1998,Body of Uterus,British Columbia,*0.00%,0.00%,0.06%,*-,-,1733
+Females,1998,Body of Uterus,British Columbia,2.37%,2.14%,2.62%,42,47,38
+Males,1999,Body of Uterus,British Columbia,*0.00%,0.00%,0.05%,*-,-,1874
+Females,1999,Body of Uterus,British Columbia,2.23%,2.01%,2.48%,45,50,40
+Males,2000,Body of Uterus,British Columbia,*0.00%,0.00%,0.06%,*-,-,1650
+Females,2000,Body of Uterus,British Columbia,2.34%,2.12%,2.58%,43,47,39
+Males,2001,Body of Uterus,British Columbia,*0.00%,0.00%,0.06%,*-,-,1768
+Females,2001,Body of Uterus,British Columbia,2.17%,1.96%,2.41%,46,51,41
+Males,2002,Body of Uterus,British Columbia,*0.00%,0.00%,0.06%,*-,-,1702
+Females,2002,Body of Uterus,British Columbia,2.34%,2.12%,2.58%,43,47,39
+Males,2003,Body of Uterus,British Columbia,*0.00%,0.00%,0.06%,*-,-,1745
+Females,2003,Body of Uterus,British Columbia,2.43%,2.22%,2.67%,41,45,37
+Males,2004,Body of Uterus,British Columbia,*0.00%,0.00%,0.05%,*-,-,1833
+Females,2004,Body of Uterus,British Columbia,2.28%,2.07%,2.51%,44,48,40
+Males,2005,Body of Uterus,British Columbia,*0.00%,0.00%,0.05%,*-,-,1934
+Females,2005,Body of Uterus,British Columbia,2.47%,2.25%,2.71%,40,44,37
+Males,2006,Body of Uterus,British Columbia,*0.00%,0.00%,0.05%,*-,-,1913
+Females,2006,Body of Uterus,British Columbia,2.43%,2.22%,2.66%,41,45,38
+Males,2007,Body of Uterus,British Columbia,*0.00%,0.00%,0.05%,*-,-,2010
+Females,2007,Body of Uterus,British Columbia,2.32%,2.12%,2.54%,43,47,39
+Males,2008,Body of Uterus,British Columbia,*0.00%,0.00%,0.05%,*-,-,2026
+Females,2008,Body of Uterus,British Columbia,2.50%,2.29%,2.73%,40,44,37
+Males,2009,Body of Uterus,British Columbia,*0.00%,0.00%,0.05%,*-,-,1940
+Females,2009,Body of Uterus,British Columbia,2.85%,2.62%,3.09%,35,38,32
+Males,2010,Body of Uterus,British Columbia,*0.00%,0.00%,0.05%,*-,-,2021
+Females,2010,Body of Uterus,British Columbia,2.83%,2.61%,3.06%,35,38,33
+Males,2011,Body of Uterus,British Columbia,*0.00%,0.00%,0.05%,*-,-,2085
+Females,2011,Body of Uterus,British Columbia,2.74%,2.54%,2.97%,36,39,34
+Males,2012,Body of Uterus,British Columbia,*0.00%,0.00%,0.05%,*-,-,2220
+Females,2012,Body of Uterus,British Columbia,2.97%,2.75%,3.21%,34,36,31
+Males,2013,Body of Uterus,British Columbia,*0.00%,0.00%,0.05%,*-,-,2222
+Females,2013,Body of Uterus,British Columbia,2.87%,2.66%,3.11%,35,38,32
+Males,2014,Body of Uterus,British Columbia,*0.00%,0.00%,0.04%,*-,-,2265
+Females,2014,Body of Uterus,British Columbia,2.74%,2.53%,2.96%,37,39,34
+Males,2015,Body of Uterus,British Columbia,*0.00%,0.00%,0.04%,*-,-,2543
+Females,2015,Body of Uterus,British Columbia,2.85%,2.64%,3.07%,35,38,33
+Males,2016,Body of Uterus,British Columbia,*0.00%,0.00%,0.04%,*-,-,2694
+Females,2016,Body of Uterus,British Columbia,2.97%,2.76%,3.19%,34,36,31
+Males,2017,Body of Uterus,British Columbia,*0.00%,0.00%,0.03%,*-,-,2935
+Females,2017,Body of Uterus,British Columbia,2.74%,2.54%,2.95%,37,39,34
+Males,1991,All Other Cancers,British Columbia,4.42%,4.07%,4.81%,23,25,21
+Females,1991,All Other Cancers,British Columbia,4.06%,3.71%,4.44%,25,27,23
+Males,1992,All Other Cancers,British Columbia,4.34%,3.99%,4.72%,23,25,21
+Females,1992,All Other Cancers,British Columbia,4.17%,3.82%,4.54%,24,26,22
+Males,1993,All Other Cancers,British Columbia,4.09%,3.77%,4.44%,24,27,22
+Females,1993,All Other Cancers,British Columbia,4.04%,3.70%,4.41%,25,27,23
+Males,1994,All Other Cancers,British Columbia,4.02%,3.70%,4.37%,25,27,23
+Females,1994,All Other Cancers,British Columbia,4.21%,3.86%,4.60%,24,26,22
+Males,1995,All Other Cancers,British Columbia,4.27%,3.94%,4.62%,23,25,22
+Females,1995,All Other Cancers,British Columbia,4.31%,3.96%,4.68%,23,25,21
+Males,1996,All Other Cancers,British Columbia,4.25%,3.93%,4.61%,24,25,22
+Females,1996,All Other Cancers,British Columbia,4.37%,4.03%,4.74%,23,25,21
+Males,1997,All Other Cancers,British Columbia,4.18%,3.86%,4.53%,24,26,22
+Females,1997,All Other Cancers,British Columbia,4.17%,3.84%,4.53%,24,26,22
+Males,1998,All Other Cancers,British Columbia,4.20%,3.87%,4.55%,24,26,22
+Females,1998,All Other Cancers,British Columbia,4.32%,3.99%,4.67%,23,25,21
+Males,1999,All Other Cancers,British Columbia,4.89%,4.54%,5.28%,20,22,19
+Females,1999,All Other Cancers,British Columbia,4.91%,4.55%,5.31%,20,22,19
+Males,2000,All Other Cancers,British Columbia,4.54%,4.20%,4.92%,22,24,20
+Females,2000,All Other Cancers,British Columbia,4.81%,4.45%,5.19%,21,22,19
+Males,2001,All Other Cancers,British Columbia,4.88%,4.52%,5.27%,20,22,19
+Females,2001,All Other Cancers,British Columbia,4.82%,4.47%,5.20%,21,22,19
+Males,2002,All Other Cancers,British Columbia,4.81%,4.46%,5.19%,21,22,19
+Females,2002,All Other Cancers,British Columbia,5.01%,4.66%,5.39%,20,21,19
+Males,2003,All Other Cancers,British Columbia,4.72%,4.38%,5.08%,21,23,20
+Females,2003,All Other Cancers,British Columbia,4.75%,4.41%,5.11%,21,23,20
+Males,2004,All Other Cancers,British Columbia,4.56%,4.23%,4.92%,22,24,20
+Females,2004,All Other Cancers,British Columbia,4.91%,4.57%,5.28%,20,22,19
+Males,2005,All Other Cancers,British Columbia,4.99%,4.64%,5.38%,20,22,19
+Females,2005,All Other Cancers,British Columbia,4.50%,4.18%,4.84%,22,24,21
+Males,2006,All Other Cancers,British Columbia,4.69%,4.36%,5.05%,21,23,20
+Females,2006,All Other Cancers,British Columbia,4.63%,4.30%,4.98%,22,23,20
+Males,2007,All Other Cancers,British Columbia,5.00%,4.65%,5.37%,20,21,19
+Females,2007,All Other Cancers,British Columbia,4.93%,4.60%,5.29%,20,22,19
+Males,2008,All Other Cancers,British Columbia,4.89%,4.56%,5.26%,20,22,19
+Females,2008,All Other Cancers,British Columbia,4.69%,4.37%,5.03%,21,23,20
+Males,2009,All Other Cancers,British Columbia,5.08%,4.74%,5.44%,20,21,18
+Females,2009,All Other Cancers,British Columbia,5.31%,4.97%,5.69%,19,20,18
+Males,2010,All Other Cancers,British Columbia,5.16%,4.80%,5.54%,19,21,18
+Females,2010,All Other Cancers,British Columbia,5.09%,4.76%,5.44%,20,21,18
+Males,2011,All Other Cancers,British Columbia,5.35%,5.00%,5.72%,19,20,17
+Females,2011,All Other Cancers,British Columbia,4.89%,4.57%,5.24%,20,22,19
+Males,2012,All Other Cancers,British Columbia,5.55%,5.19%,5.94%,18,19,17
+Females,2012,All Other Cancers,British Columbia,5.40%,5.06%,5.76%,19,20,17
+Males,2013,All Other Cancers,British Columbia,5.66%,5.30%,6.04%,18,19,17
+Females,2013,All Other Cancers,British Columbia,4.99%,4.67%,5.34%,20,21,19
+Males,2014,All Other Cancers,British Columbia,5.11%,4.78%,5.46%,20,21,18
+Females,2014,All Other Cancers,British Columbia,5.07%,4.75%,5.41%,20,21,18
+Males,2015,All Other Cancers,British Columbia,5.13%,4.80%,5.47%,20,21,18
+Females,2015,All Other Cancers,British Columbia,5.08%,4.77%,5.42%,20,21,18
+Males,2016,All Other Cancers,British Columbia,5.39%,5.06%,5.74%,19,20,17
+Females,2016,All Other Cancers,British Columbia,5.24%,4.92%,5.57%,19,20,18
+Males,2017,All Other Cancers,British Columbia,5.19%,4.88%,5.52%,19,20,18
+Females,2017,All Other Cancers,British Columbia,5.33%,5.01%,5.66%,19,20,18
+Males,1991,Larynx,British Columbia,0.70%,0.57%,0.87%,143,175,115
+Females,1991,Larynx,British Columbia,*0.14%,0.08%,0.23%,*722,"1,185",432
+Males,1992,Larynx,British Columbia,0.65%,0.53%,0.81%,153,188,124
+Females,1992,Larynx,British Columbia,*0.13%,0.08%,0.22%,*759,"1,238",455
+Males,1993,Larynx,British Columbia,0.63%,0.51%,0.78%,158,195,128
+Females,1993,Larynx,British Columbia,*0.08%,0.04%,0.15%,"*1,298","2,496",658
+Males,1994,Larynx,British Columbia,0.55%,0.44%,0.68%,183,227,146
+Females,1994,Larynx,British Columbia,*0.11%,0.06%,0.19%,*915,"1,554",528
+Males,1995,Larynx,British Columbia,0.74%,0.62%,0.90%,134,162,111
+Females,1995,Larynx,British Columbia,0.19%,0.13%,0.29%,523,775,348
+Males,1996,Larynx,British Columbia,0.55%,0.44%,0.69%,182,226,145
+Females,1996,Larynx,British Columbia,0.17%,0.11%,0.26%,594,910,386
+Males,1997,Larynx,British Columbia,0.51%,0.41%,0.64%,197,245,156
+Females,1997,Larynx,British Columbia,*0.12%,0.08%,0.20%,*818,"1,329",493
+Males,1998,Larynx,British Columbia,0.56%,0.45%,0.71%,177,220,141
+Females,1998,Larynx,British Columbia,*0.09%,0.05%,0.16%,"*1,103","1,903",625
+Males,1999,Larynx,British Columbia,0.67%,0.55%,0.82%,149,181,122
+Females,1999,Larynx,British Columbia,*0.08%,0.04%,0.15%,"*1,251","2,274",671
+Males,2000,Larynx,British Columbia,0.44%,0.34%,0.56%,229,293,177
+Females,2000,Larynx,British Columbia,*0.08%,0.05%,0.15%,"*1,193","2,086",658
+Males,2001,Larynx,British Columbia,0.57%,0.46%,0.71%,175,216,140
+Females,2001,Larynx,British Columbia,*0.10%,0.06%,0.17%,*980,"1,624",578
+Males,2002,Larynx,British Columbia,0.50%,0.40%,0.62%,202,250,161
+Females,2002,Larynx,British Columbia,*0.10%,0.06%,0.17%,*991,"1,685",585
+Males,2003,Larynx,British Columbia,0.51%,0.41%,0.64%,196,243,156
+Females,2003,Larynx,British Columbia,0.12%,0.08%,0.19%,820,"1,304",516
+Males,2004,Larynx,British Columbia,0.42%,0.33%,0.53%,240,303,188
+Females,2004,Larynx,British Columbia,*0.10%,0.06%,0.17%,"*1,007","1,695",602
+Males,2005,Larynx,British Columbia,0.44%,0.35%,0.55%,229,288,181
+Females,2005,Larynx,British Columbia,*0.05%,0.03%,0.11%,"*1,831","3,869",890
+Males,2006,Larynx,British Columbia,0.44%,0.35%,0.56%,227,287,178
+Females,2006,Larynx,British Columbia,*0.06%,0.03%,0.12%,"*1,559","3,061",816
+Males,2007,Larynx,British Columbia,0.47%,0.38%,0.59%,211,262,168
+Females,2007,Larynx,British Columbia,0.12%,0.08%,0.19%,833,"1,332",525
+Males,2008,Larynx,British Columbia,0.49%,0.40%,0.61%,202,248,163
+Females,2008,Larynx,British Columbia,0.11%,0.07%,0.17%,915,"1,438",580
+Males,2009,Larynx,British Columbia,0.52%,0.42%,0.65%,192,239,154
+Females,2009,Larynx,British Columbia,*0.10%,0.06%,0.16%,"*1,018","1,653",623
+Males,2010,Larynx,British Columbia,0.42%,0.34%,0.54%,236,297,186
+Females,2010,Larynx,British Columbia,*0.09%,0.05%,0.16%,"*1,081","1,823",645
+Males,2011,Larynx,British Columbia,0.46%,0.38%,0.58%,216,267,173
+Females,2011,Larynx,British Columbia,*0.09%,0.05%,0.14%,"*1,176","1,913",711
+Males,2012,Larynx,British Columbia,0.44%,0.35%,0.55%,227,283,181
+Females,2012,Larynx,British Columbia,*0.09%,0.05%,0.16%,"*1,111","2,057",638
+Males,2013,Larynx,British Columbia,0.40%,0.32%,0.51%,247,308,196
+Females,2013,Larynx,British Columbia,*0.07%,0.04%,0.12%,"*1,437","2,610",808
+Males,2014,Larynx,British Columbia,0.45%,0.36%,0.56%,224,277,180
+Females,2014,Larynx,British Columbia,*0.10%,0.06%,0.16%,"*1,050","1,788",635
+Males,2015,Larynx,British Columbia,0.40%,0.32%,0.50%,249,311,198
+Females,2015,Larynx,British Columbia,*0.06%,0.03%,0.11%,"*1,586","2,860",894
+Males,2016,Larynx,British Columbia,0.39%,0.31%,0.49%,257,320,205
+Females,2016,Larynx,British Columbia,*0.03%,0.01%,0.07%,"*3,301","8,536",1398
+Males,2017,Larynx,British Columbia,0.39%,0.32%,0.49%,254,315,204
+Females,2017,Larynx,British Columbia,*0.05%,0.02%,0.09%,"*2,091","4,060",1104
+Males,1991,Bladder (Invasive),British Columbia,1.99%,1.75%,2.26%,50,57,44
+Females,1991,Bladder (Invasive),British Columbia,0.61%,0.47%,0.79%,163,212,127
+Males,1992,Bladder (Invasive),British Columbia,1.68%,1.46%,1.93%,60,69,52
+Females,1992,Bladder (Invasive),British Columbia,0.76%,0.61%,0.95%,132,165,106
+Males,1993,Bladder (Invasive),British Columbia,1.84%,1.61%,2.09%,54,62,48
+Females,1993,Bladder (Invasive),British Columbia,0.83%,0.68%,1.02%,120,148,98
+Males,1994,Bladder (Invasive),British Columbia,2.01%,1.77%,2.28%,50,57,44
+Females,1994,Bladder (Invasive),British Columbia,0.59%,0.46%,0.75%,170,217,134
+Males,1995,Bladder (Invasive),British Columbia,1.82%,1.60%,2.08%,55,63,48
+Females,1995,Bladder (Invasive),British Columbia,0.73%,0.59%,0.91%,137,169,110
+Males,1996,Bladder (Invasive),British Columbia,1.98%,1.76%,2.24%,50,57,45
+Females,1996,Bladder (Invasive),British Columbia,0.72%,0.59%,0.88%,139,169,114
+Males,1997,Bladder (Invasive),British Columbia,2.26%,2.02%,2.54%,44,50,39
+Females,1997,Bladder (Invasive),British Columbia,0.69%,0.56%,0.85%,146,179,118
+Males,1998,Bladder (Invasive),British Columbia,2.22%,1.98%,2.49%,45,51,40
+Females,1998,Bladder (Invasive),British Columbia,0.78%,0.64%,0.94%,129,156,106
+Males,1999,Bladder (Invasive),British Columbia,2.28%,2.04%,2.55%,44,49,39
+Females,1999,Bladder (Invasive),British Columbia,0.75%,0.62%,0.92%,133,162,109
+Males,2000,Bladder (Invasive),British Columbia,2.29%,2.05%,2.57%,44,49,39
+Females,2000,Bladder (Invasive),British Columbia,0.63%,0.51%,0.79%,158,195,127
+Males,2001,Bladder (Invasive),British Columbia,1.85%,1.63%,2.10%,54,61,48
+Females,2001,Bladder (Invasive),British Columbia,0.70%,0.57%,0.85%,144,176,117
+Males,2002,Bladder (Invasive),British Columbia,2.17%,1.92%,2.44%,46,52,41
+Females,2002,Bladder (Invasive),British Columbia,0.73%,0.59%,0.88%,138,168,113
+Males,2003,Bladder (Invasive),British Columbia,2.21%,1.97%,2.48%,45,51,40
+Females,2003,Bladder (Invasive),British Columbia,0.71%,0.59%,0.87%,140,171,115
+Males,2004,Bladder (Invasive),British Columbia,1.98%,1.75%,2.24%,51,57,45
+Females,2004,Bladder (Invasive),British Columbia,0.74%,0.61%,0.90%,134,164,111
+Males,2005,Bladder (Invasive),British Columbia,2.04%,1.82%,2.30%,49,55,43
+Females,2005,Bladder (Invasive),British Columbia,0.58%,0.47%,0.71%,173,215,140
+Males,2006,Bladder (Invasive),British Columbia,2.07%,1.84%,2.33%,48,54,43
+Females,2006,Bladder (Invasive),British Columbia,0.62%,0.50%,0.76%,162,199,132
+Males,2007,Bladder (Invasive),British Columbia,2.15%,1.92%,2.42%,46,52,41
+Females,2007,Bladder (Invasive),British Columbia,0.68%,0.55%,0.83%,148,181,121
+Males,2008,Bladder (Invasive),British Columbia,2.51%,2.26%,2.79%,40,44,36
+Females,2008,Bladder (Invasive),British Columbia,0.74%,0.61%,0.89%,136,164,113
+Males,2009,Bladder (Invasive),British Columbia,2.47%,2.23%,2.75%,40,45,36
+Females,2009,Bladder (Invasive),British Columbia,0.82%,0.69%,0.98%,121,145,102
+Males,2010,Bladder (Invasive),British Columbia,2.42%,2.17%,2.69%,41,46,37
+Females,2010,Bladder (Invasive),British Columbia,0.74%,0.61%,0.89%,135,163,112
+Males,2011,Bladder (Invasive),British Columbia,2.57%,2.31%,2.85%,39,43,35
+Females,2011,Bladder (Invasive),British Columbia,0.70%,0.57%,0.84%,144,175,119
+Males,2012,Bladder (Invasive),British Columbia,3.05%,2.79%,3.34%,33,36,30
+Females,2012,Bladder (Invasive),British Columbia,1.05%,0.90%,1.22%,95,111,82
+Males,2013,Bladder (Invasive),British Columbia,3.04%,2.77%,3.33%,33,36,30
+Females,2013,Bladder (Invasive),British Columbia,0.87%,0.74%,1.03%,115,136,97
+Males,2014,Bladder (Invasive),British Columbia,2.58%,2.34%,2.85%,39,43,35
+Females,2014,Bladder (Invasive),British Columbia,0.81%,0.68%,0.97%,123,147,103
+Males,2015,Bladder (Invasive),British Columbia,2.84%,2.59%,3.12%,35,39,32
+Females,2015,Bladder (Invasive),British Columbia,0.68%,0.56%,0.81%,147,178,123
+Males,2016,Bladder (Invasive),British Columbia,2.70%,2.46%,2.96%,37,41,34
+Females,2016,Bladder (Invasive),British Columbia,0.89%,0.76%,1.05%,112,132,96
+Males,2017,Bladder (Invasive),British Columbia,2.58%,2.36%,2.82%,39,42,35
+Females,2017,Bladder (Invasive),British Columbia,0.85%,0.72%,1.00%,117,138,100
+Males,1991,Bladder (In-Situ),British Columbia,1.71%,1.50%,1.96%,58,67,51
+Females,1991,Bladder (In-Situ),British Columbia,0.51%,0.39%,0.66%,197,254,152
+Males,1992,Bladder (In-Situ),British Columbia,1.80%,1.58%,2.05%,56,63,49
+Females,1992,Bladder (In-Situ),British Columbia,0.55%,0.44%,0.70%,182,230,143
+Males,1993,Bladder (In-Situ),British Columbia,1.68%,1.48%,1.92%,60,68,52
+Females,1993,Bladder (In-Situ),British Columbia,0.65%,0.52%,0.81%,155,193,124
+Males,1994,Bladder (In-Situ),British Columbia,1.85%,1.63%,2.11%,54,61,47
+Females,1994,Bladder (In-Situ),British Columbia,0.68%,0.55%,0.84%,148,183,119
+Males,1995,Bladder (In-Situ),British Columbia,1.82%,1.61%,2.06%,55,62,48
+Females,1995,Bladder (In-Situ),British Columbia,0.65%,0.53%,0.81%,153,190,124
+Males,1996,Bladder (In-Situ),British Columbia,1.99%,1.77%,2.25%,50,57,45
+Females,1996,Bladder (In-Situ),British Columbia,0.69%,0.57%,0.85%,144,176,117
+Males,1997,Bladder (In-Situ),British Columbia,1.71%,1.50%,1.94%,59,67,51
+Females,1997,Bladder (In-Situ),British Columbia,0.69%,0.57%,0.84%,145,177,119
+Males,1998,Bladder (In-Situ),British Columbia,1.83%,1.61%,2.07%,55,62,48
+Females,1998,Bladder (In-Situ),British Columbia,0.69%,0.57%,0.85%,144,177,118
+Males,1999,Bladder (In-Situ),British Columbia,1.79%,1.58%,2.03%,56,63,49
+Females,1999,Bladder (In-Situ),British Columbia,0.66%,0.54%,0.81%,151,184,124
+Males,2000,Bladder (In-Situ),British Columbia,1.79%,1.58%,2.04%,56,63,49
+Females,2000,Bladder (In-Situ),British Columbia,0.55%,0.44%,0.69%,181,225,145
+Males,2001,Bladder (In-Situ),British Columbia,2.15%,1.92%,2.41%,47,52,42
+Females,2001,Bladder (In-Situ),British Columbia,0.71%,0.59%,0.86%,140,169,116
+Males,2002,Bladder (In-Situ),British Columbia,1.84%,1.64%,2.08%,54,61,48
+Females,2002,Bladder (In-Situ),British Columbia,0.70%,0.58%,0.84%,144,174,119
+Males,2003,Bladder (In-Situ),British Columbia,1.90%,1.69%,2.14%,53,59,47
+Females,2003,Bladder (In-Situ),British Columbia,0.58%,0.48%,0.72%,171,210,140
+Males,2004,Bladder (In-Situ),British Columbia,1.79%,1.59%,2.02%,56,63,50
+Females,2004,Bladder (In-Situ),British Columbia,0.54%,0.44%,0.67%,185,229,149
+Males,2005,Bladder (In-Situ),British Columbia,1.92%,1.71%,2.15%,52,58,46
+Females,2005,Bladder (In-Situ),British Columbia,0.57%,0.47%,0.71%,174,214,142
+Males,2006,Bladder (In-Situ),British Columbia,2.19%,1.97%,2.45%,46,51,41
+Females,2006,Bladder (In-Situ),British Columbia,0.74%,0.62%,0.89%,135,162,113
+Males,2007,Bladder (In-Situ),British Columbia,2.14%,1.92%,2.38%,47,52,42
+Females,2007,Bladder (In-Situ),British Columbia,0.80%,0.67%,0.94%,125,148,106
+Males,2008,Bladder (In-Situ),British Columbia,2.15%,1.94%,2.40%,46,52,42
+Females,2008,Bladder (In-Situ),British Columbia,0.67%,0.56%,0.81%,149,180,124
+Males,2009,Bladder (In-Situ),British Columbia,2.25%,2.03%,2.50%,44,49,40
+Females,2009,Bladder (In-Situ),British Columbia,0.72%,0.60%,0.86%,139,166,117
+Males,2010,Bladder (In-Situ),British Columbia,2.52%,2.28%,2.78%,40,44,36
+Females,2010,Bladder (In-Situ),British Columbia,0.66%,0.55%,0.79%,152,183,127
+Males,2011,Bladder (In-Situ),British Columbia,2.64%,2.40%,2.90%,38,42,34
+Females,2011,Bladder (In-Situ),British Columbia,0.85%,0.72%,1.00%,118,139,100
+Males,2012,Bladder (In-Situ),British Columbia,1.89%,1.69%,2.11%,53,59,47
+Females,2012,Bladder (In-Situ),British Columbia,0.51%,0.41%,0.62%,198,244,161
+Males,2013,Bladder (In-Situ),British Columbia,2.30%,2.08%,2.54%,44,48,39
+Females,2013,Bladder (In-Situ),British Columbia,0.64%,0.54%,0.77%,155,186,130
+Males,2014,Bladder (In-Situ),British Columbia,2.53%,2.30%,2.78%,40,44,36
+Females,2014,Bladder (In-Situ),British Columbia,0.69%,0.58%,0.82%,145,174,122
+Males,2015,Bladder (In-Situ),British Columbia,2.91%,2.68%,3.17%,34,37,32
+Females,2015,Bladder (In-Situ),British Columbia,0.89%,0.76%,1.04%,112,131,96
+Males,2016,Bladder (In-Situ),British Columbia,2.73%,2.51%,2.98%,37,40,34
+Females,2016,Bladder (In-Situ),British Columbia,0.76%,0.64%,0.89%,132,155,112
+Males,2017,Bladder (In-Situ),British Columbia,2.30%,2.10%,2.52%,43,48,40
+Females,2017,Bladder (In-Situ),British Columbia,0.69%,0.58%,0.82%,145,172,122
+Males,1991,Pancreas,British Columbia,1.11%,0.93%,1.31%,90,107,76
+Females,1991,Pancreas,British Columbia,1.25%,1.05%,1.48%,80,95,68
+Males,1992,Pancreas,British Columbia,1.21%,1.02%,1.43%,83,98,70
+Females,1992,Pancreas,British Columbia,1.24%,1.05%,1.46%,81,95,69
+Males,1993,Pancreas,British Columbia,1.18%,1.00%,1.38%,85,100,72
+Females,1993,Pancreas,British Columbia,1.36%,1.16%,1.60%,73,86,63
+Males,1994,Pancreas,British Columbia,1.04%,0.87%,1.24%,97,115,81
+Females,1994,Pancreas,British Columbia,1.40%,1.20%,1.63%,72,83,61
+Males,1995,Pancreas,British Columbia,1.38%,1.19%,1.61%,72,84,62
+Females,1995,Pancreas,British Columbia,1.22%,1.04%,1.44%,82,96,70
+Males,1996,Pancreas,British Columbia,1.14%,0.98%,1.33%,88,102,75
+Females,1996,Pancreas,British Columbia,1.18%,1.01%,1.38%,85,99,72
+Males,1997,Pancreas,British Columbia,1.14%,0.97%,1.33%,88,103,75
+Females,1997,Pancreas,British Columbia,1.25%,1.07%,1.47%,80,93,68
+Males,1998,Pancreas,British Columbia,1.31%,1.13%,1.53%,76,88,65
+Females,1998,Pancreas,British Columbia,1.30%,1.12%,1.51%,77,90,66
+Males,1999,Pancreas,British Columbia,1.41%,1.22%,1.62%,71,82,62
+Females,1999,Pancreas,British Columbia,1.43%,1.24%,1.66%,70,81,60
+Males,2000,Pancreas,British Columbia,1.24%,1.06%,1.46%,81,94,69
+Females,2000,Pancreas,British Columbia,1.46%,1.27%,1.68%,68,79,59
+Males,2001,Pancreas,British Columbia,1.36%,1.18%,1.58%,73,85,63
+Females,2001,Pancreas,British Columbia,1.60%,1.40%,1.83%,62,71,55
+Males,2002,Pancreas,British Columbia,1.22%,1.05%,1.43%,82,95,70
+Females,2002,Pancreas,British Columbia,1.53%,1.34%,1.75%,65,75,57
+Males,2003,Pancreas,British Columbia,1.30%,1.13%,1.51%,77,89,66
+Females,2003,Pancreas,British Columbia,1.44%,1.26%,1.64%,69,79,61
+Males,2004,Pancreas,British Columbia,1.29%,1.12%,1.49%,77,89,67
+Females,2004,Pancreas,British Columbia,1.47%,1.29%,1.68%,68,78,59
+Males,2005,Pancreas,British Columbia,1.34%,1.16%,1.55%,75,86,65
+Females,2005,Pancreas,British Columbia,1.34%,1.17%,1.53%,75,86,65
+Males,2006,Pancreas,British Columbia,1.36%,1.18%,1.56%,74,85,64
+Females,2006,Pancreas,British Columbia,1.48%,1.30%,1.69%,67,77,59
+Males,2007,Pancreas,British Columbia,1.38%,1.21%,1.59%,72,83,63
+Females,2007,Pancreas,British Columbia,1.44%,1.26%,1.64%,69,79,61
+Males,2008,Pancreas,British Columbia,1.35%,1.18%,1.54%,74,85,65
+Females,2008,Pancreas,British Columbia,1.29%,1.12%,1.47%,78,89,68
+Males,2009,Pancreas,British Columbia,1.63%,1.44%,1.85%,61,69,54
+Females,2009,Pancreas,British Columbia,1.56%,1.37%,1.77%,64,73,57
+Males,2010,Pancreas,British Columbia,1.47%,1.28%,1.68%,68,78,60
+Females,2010,Pancreas,British Columbia,1.25%,1.08%,1.43%,80,92,70
+Males,2011,Pancreas,British Columbia,1.48%,1.31%,1.68%,67,76,60
+Females,2011,Pancreas,British Columbia,1.47%,1.29%,1.67%,68,77,60
+Males,2012,Pancreas,British Columbia,1.51%,1.34%,1.71%,66,75,58
+Females,2012,Pancreas,British Columbia,1.57%,1.39%,1.77%,64,72,56
+Males,2013,Pancreas,British Columbia,1.66%,1.48%,1.86%,60,68,54
+Females,2013,Pancreas,British Columbia,1.73%,1.54%,1.93%,58,65,52
+Males,2014,Pancreas,British Columbia,1.73%,1.54%,1.94%,58,65,52
+Females,2014,Pancreas,British Columbia,1.57%,1.39%,1.76%,64,72,57
+Males,2015,Pancreas,British Columbia,1.63%,1.46%,1.83%,61,69,55
+Females,2015,Pancreas,British Columbia,1.69%,1.51%,1.89%,59,66,53
+Males,2016,Pancreas,British Columbia,1.73%,1.55%,1.92%,58,64,52
+Females,2016,Pancreas,British Columbia,1.65%,1.48%,1.85%,60,68,54
+Males,2017,Pancreas,British Columbia,1.67%,1.50%,1.86%,60,67,54
+Females,2017,Pancreas,British Columbia,1.74%,1.57%,1.94%,57,64,52
+Males,1991,Stomach,British Columbia,1.29%,1.11%,1.51%,78,90,66
+Females,1991,Stomach,British Columbia,0.81%,0.66%,1.00%,124,152,100
+Males,1992,Stomach,British Columbia,1.44%,1.24%,1.67%,69,80,60
+Females,1992,Stomach,British Columbia,0.80%,0.65%,0.99%,124,153,101
+Males,1993,Stomach,British Columbia,1.55%,1.35%,1.79%,64,74,56
+Females,1993,Stomach,British Columbia,0.86%,0.70%,1.05%,116,142,95
+Males,1994,Stomach,British Columbia,1.40%,1.21%,1.61%,72,83,62
+Females,1994,Stomach,British Columbia,0.77%,0.63%,0.95%,130,159,106
+Males,1995,Stomach,British Columbia,1.32%,1.14%,1.54%,76,88,65
+Females,1995,Stomach,British Columbia,0.83%,0.69%,1.00%,120,146,100
+Males,1996,Stomach,British Columbia,1.35%,1.17%,1.57%,74,86,64
+Females,1996,Stomach,British Columbia,0.91%,0.76%,1.09%,110,132,92
+Males,1997,Stomach,British Columbia,1.36%,1.17%,1.57%,74,85,64
+Females,1997,Stomach,British Columbia,0.69%,0.55%,0.86%,145,181,117
+Males,1998,Stomach,British Columbia,1.40%,1.22%,1.61%,71,82,62
+Females,1998,Stomach,British Columbia,0.78%,0.64%,0.95%,128,155,106
+Males,1999,Stomach,British Columbia,1.39%,1.20%,1.60%,72,84,62
+Females,1999,Stomach,British Columbia,0.80%,0.66%,0.98%,124,152,102
+Males,2000,Stomach,British Columbia,1.38%,1.19%,1.60%,73,84,63
+Females,2000,Stomach,British Columbia,0.80%,0.66%,0.98%,124,151,102
+Males,2001,Stomach,British Columbia,1.50%,1.32%,1.71%,67,76,58
+Females,2001,Stomach,British Columbia,0.85%,0.71%,1.02%,117,141,98
+Males,2002,Stomach,British Columbia,1.22%,1.05%,1.42%,82,95,70
+Females,2002,Stomach,British Columbia,0.74%,0.61%,0.89%,136,164,113
+Males,2003,Stomach,British Columbia,1.35%,1.16%,1.57%,74,86,64
+Females,2003,Stomach,British Columbia,0.54%,0.43%,0.67%,185,231,149
+Males,2004,Stomach,British Columbia,1.30%,1.13%,1.50%,77,89,67
+Females,2004,Stomach,British Columbia,0.64%,0.52%,0.77%,157,192,129
+Males,2005,Stomach,British Columbia,1.37%,1.20%,1.58%,73,84,63
+Females,2005,Stomach,British Columbia,0.65%,0.54%,0.79%,153,186,126
+Males,2006,Stomach,British Columbia,1.28%,1.11%,1.47%,78,90,68
+Females,2006,Stomach,British Columbia,0.60%,0.49%,0.74%,167,205,136
+Males,2007,Stomach,British Columbia,1.30%,1.14%,1.49%,77,88,67
+Females,2007,Stomach,British Columbia,0.70%,0.58%,0.84%,143,172,119
+Males,2008,Stomach,British Columbia,1.35%,1.17%,1.55%,74,85,65
+Females,2008,Stomach,British Columbia,0.62%,0.51%,0.76%,160,195,132
+Males,2009,Stomach,British Columbia,1.08%,0.93%,1.26%,93,108,79
+Females,2009,Stomach,British Columbia,0.63%,0.52%,0.77%,158,194,130
+Males,2010,Stomach,British Columbia,1.09%,0.93%,1.26%,92,107,79
+Females,2010,Stomach,British Columbia,0.60%,0.49%,0.74%,166,202,136
+Males,2011,Stomach,British Columbia,1.17%,1.02%,1.34%,86,98,74
+Females,2011,Stomach,British Columbia,0.71%,0.59%,0.85%,141,170,118
+Males,2012,Stomach,British Columbia,1.20%,1.04%,1.39%,83,96,72
+Females,2012,Stomach,British Columbia,0.75%,0.62%,0.89%,134,161,112
+Males,2013,Stomach,British Columbia,1.15%,0.99%,1.33%,87,101,75
+Females,2013,Stomach,British Columbia,0.54%,0.43%,0.66%,186,230,151
+Males,2014,Stomach,British Columbia,1.38%,1.21%,1.57%,72,82,64
+Females,2014,Stomach,British Columbia,0.58%,0.48%,0.71%,171,209,141
+Males,2015,Stomach,British Columbia,1.26%,1.11%,1.44%,79,90,70
+Females,2015,Stomach,British Columbia,0.63%,0.52%,0.75%,159,192,132
+Males,2016,Stomach,British Columbia,1.22%,1.07%,1.38%,82,93,72
+Females,2016,Stomach,British Columbia,0.59%,0.48%,0.71%,171,208,141
+Males,2017,Stomach,British Columbia,0.90%,0.78%,1.03%,111,128,97
+Females,2017,Stomach,British Columbia,0.63%,0.52%,0.75%,160,192,133
+Males,1991,Thyroid,British Columbia,0.19%,0.13%,0.28%,532,775,352
+Females,1991,Thyroid,British Columbia,0.43%,0.33%,0.55%,235,300,182
+Males,1992,Thyroid,British Columbia,0.15%,0.10%,0.25%,645,993,402
+Females,1992,Thyroid,British Columbia,0.49%,0.39%,0.62%,205,254,162
+Males,1993,Thyroid,British Columbia,0.22%,0.16%,0.32%,448,631,311
+Females,1993,Thyroid,British Columbia,0.47%,0.37%,0.60%,213,268,168
+Males,1994,Thyroid,British Columbia,0.19%,0.13%,0.29%,516,748,345
+Females,1994,Thyroid,British Columbia,0.58%,0.48%,0.72%,171,208,139
+Males,1995,Thyroid,British Columbia,0.19%,0.14%,0.29%,513,726,349
+Females,1995,Thyroid,British Columbia,0.63%,0.52%,0.76%,160,192,131
+Males,1996,Thyroid,British Columbia,0.20%,0.15%,0.29%,492,679,345
+Females,1996,Thyroid,British Columbia,0.61%,0.51%,0.74%,164,196,135
+Males,1997,Thyroid,British Columbia,0.24%,0.18%,0.33%,419,569,300
+Females,1997,Thyroid,British Columbia,0.57%,0.47%,0.69%,177,212,146
+Males,1998,Thyroid,British Columbia,0.22%,0.16%,0.31%,450,611,320
+Females,1998,Thyroid,British Columbia,0.48%,0.40%,0.60%,207,252,168
+Males,1999,Thyroid,British Columbia,0.23%,0.17%,0.32%,441,595,317
+Females,1999,Thyroid,British Columbia,0.57%,0.47%,0.69%,176,211,145
+Males,2000,Thyroid,British Columbia,0.20%,0.14%,0.29%,508,704,350
+Females,2000,Thyroid,British Columbia,0.66%,0.56%,0.79%,152,180,127
+Males,2001,Thyroid,British Columbia,0.25%,0.19%,0.35%,393,516,289
+Females,2001,Thyroid,British Columbia,0.66%,0.56%,0.78%,153,180,129
+Males,2002,Thyroid,British Columbia,0.24%,0.18%,0.33%,416,547,304
+Females,2002,Thyroid,British Columbia,0.59%,0.50%,0.70%,170,202,143
+Males,2003,Thyroid,British Columbia,0.25%,0.19%,0.35%,399,540,287
+Females,2003,Thyroid,British Columbia,0.68%,0.58%,0.80%,147,171,125
+Males,2004,Thyroid,British Columbia,0.19%,0.14%,0.27%,535,729,374
+Females,2004,Thyroid,British Columbia,0.72%,0.62%,0.85%,138,161,118
+Males,2005,Thyroid,British Columbia,0.27%,0.21%,0.36%,374,487,279
+Females,2005,Thyroid,British Columbia,0.65%,0.55%,0.77%,154,180,130
+Males,2006,Thyroid,British Columbia,0.29%,0.22%,0.38%,350,455,263
+Females,2006,Thyroid,British Columbia,0.67%,0.58%,0.79%,149,173,127
+Males,2007,Thyroid,British Columbia,0.27%,0.21%,0.35%,374,482,283
+Females,2007,Thyroid,British Columbia,0.83%,0.72%,0.96%,121,140,104
+Males,2008,Thyroid,British Columbia,0.36%,0.29%,0.46%,277,346,217
+Females,2008,Thyroid,British Columbia,0.83%,0.73%,0.96%,120,137,104
+Males,2009,Thyroid,British Columbia,0.33%,0.26%,0.43%,301,379,233
+Females,2009,Thyroid,British Columbia,0.96%,0.85%,1.10%,104,118,91
+Males,2010,Thyroid,British Columbia,0.40%,0.32%,0.51%,249,308,198
+Females,2010,Thyroid,British Columbia,0.93%,0.81%,1.06%,108,123,94
+Males,2011,Thyroid,British Columbia,0.39%,0.31%,0.49%,258,319,206
+Females,2011,Thyroid,British Columbia,0.91%,0.80%,1.04%,110,125,96
+Males,2012,Thyroid,British Columbia,0.42%,0.34%,0.51%,241,293,195
+Females,2012,Thyroid,British Columbia,1.20%,1.07%,1.35%,83,93,74
+Males,2013,Thyroid,British Columbia,0.46%,0.38%,0.56%,219,266,179
+Females,2013,Thyroid,British Columbia,1.09%,0.97%,1.23%,91,103,81
+Males,2014,Thyroid,British Columbia,0.44%,0.37%,0.54%,226,273,184
+Females,2014,Thyroid,British Columbia,1.13%,1.01%,1.27%,88,99,79
+Males,2015,Thyroid,British Columbia,0.40%,0.33%,0.49%,248,300,202
+Females,2015,Thyroid,British Columbia,1.14%,1.02%,1.28%,88,98,78
+Males,2016,Thyroid,British Columbia,0.44%,0.37%,0.54%,225,272,185
+Females,2016,Thyroid,British Columbia,1.06%,0.94%,1.19%,94,106,84
+Males,2017,Thyroid,British Columbia,0.43%,0.36%,0.53%,231,278,190
+Females,2017,Thyroid,British Columbia,1.04%,0.92%,1.17%,96,108,86
+Males,1991,Testis,British Columbia,0.29%,0.22%,0.38%,351,448,262
+Females,1991,Testis,British Columbia,*0.00%,0.00%,0.06%,*-,-,1619
+Males,1992,Testis,British Columbia,0.34%,0.27%,0.44%,294,368,226
+Females,1992,Testis,British Columbia,*0.00%,0.00%,0.06%,*-,-,1704
+Males,1993,Testis,British Columbia,0.37%,0.30%,0.47%,271,337,213
+Females,1993,Testis,British Columbia,*0.00%,0.00%,0.06%,*-,-,1774
+Males,1994,Testis,British Columbia,0.40%,0.33%,0.50%,250,305,199
+Females,1994,Testis,British Columbia,*0.00%,0.00%,0.06%,*-,-,1817
+Males,1995,Testis,British Columbia,0.36%,0.29%,0.45%,279,342,220
+Females,1995,Testis,British Columbia,*0.00%,0.00%,0.06%,*-,-,1802
+Males,1996,Testis,British Columbia,0.41%,0.34%,0.51%,244,296,197
+Females,1996,Testis,British Columbia,*0.00%,0.00%,0.05%,*-,-,1945
+Males,1997,Testis,British Columbia,0.39%,0.32%,0.49%,255,310,204
+Females,1997,Testis,British Columbia,*0.00%,0.00%,0.05%,*-,-,1877
+Males,1998,Testis,British Columbia,0.33%,0.27%,0.43%,300,372,234
+Females,1998,Testis,British Columbia,*0.00%,0.00%,0.05%,*-,-,2079
+Males,1999,Testis,British Columbia,0.39%,0.32%,0.49%,254,308,204
+Females,1999,Testis,British Columbia,*0.00%,0.00%,0.05%,*-,-,1990
+Males,2000,Testis,British Columbia,0.28%,0.22%,0.37%,355,445,270
+Females,2000,Testis,British Columbia,*0.00%,0.00%,0.05%,*-,-,2003
+Males,2001,Testis,British Columbia,0.40%,0.33%,0.49%,253,306,203
+Females,2001,Testis,British Columbia,*0.00%,0.00%,0.05%,*-,-,2079
+Males,2002,Testis,British Columbia,0.35%,0.28%,0.44%,288,352,227
+Females,2002,Testis,British Columbia,*0.00%,0.00%,0.04%,*-,-,2300
+Males,2003,Testis,British Columbia,0.35%,0.29%,0.45%,282,348,221
+Females,2003,Testis,British Columbia,*0.00%,0.00%,0.04%,*-,-,2402
+Males,2004,Testis,British Columbia,0.35%,0.29%,0.45%,282,345,224
+Females,2004,Testis,British Columbia,*0.00%,0.00%,0.04%,*-,-,2467
+Males,2005,Testis,British Columbia,0.43%,0.35%,0.52%,235,283,191
+Females,2005,Testis,British Columbia,*0.00%,0.00%,0.04%,*-,-,2425
+Males,2006,Testis,British Columbia,0.37%,0.30%,0.46%,271,329,217
+Females,2006,Testis,British Columbia,*0.00%,0.00%,0.04%,*-,-,2575
+Males,2007,Testis,British Columbia,0.34%,0.28%,0.43%,296,362,235
+Females,2007,Testis,British Columbia,*0.00%,0.00%,0.04%,*-,-,2597
+Males,2008,Testis,British Columbia,0.41%,0.34%,0.51%,242,290,197
+Females,2008,Testis,British Columbia,*0.00%,0.00%,0.04%,*-,-,2711
+Males,2009,Testis,British Columbia,0.46%,0.39%,0.56%,217,259,178
+Females,2009,Testis,British Columbia,*0.00%,0.00%,0.04%,*-,-,2606
+Males,2010,Testis,British Columbia,0.48%,0.40%,0.58%,208,248,172
+Females,2010,Testis,British Columbia,*0.00%,0.00%,0.04%,*-,-,2628
+Males,2011,Testis,British Columbia,0.51%,0.43%,0.61%,198,233,165
+Females,2011,Testis,British Columbia,*0.00%,0.00%,0.04%,*-,-,2782
+Males,2012,Testis,British Columbia,0.43%,0.36%,0.53%,232,279,190
+Females,2012,Testis,British Columbia,*0.00%,0.00%,0.03%,*-,-,2917
+Males,2013,Testis,British Columbia,0.48%,0.41%,0.58%,207,244,172
+Females,2013,Testis,British Columbia,*0.00%,0.00%,0.03%,*-,-,2977
+Males,2014,Testis,British Columbia,0.46%,0.39%,0.55%,217,257,181
+Females,2014,Testis,British Columbia,*0.00%,0.00%,0.03%,*-,-,3009
+Males,2015,Testis,British Columbia,0.45%,0.38%,0.54%,224,266,187
+Females,2015,Testis,British Columbia,*0.00%,0.00%,0.03%,*-,-,3262
+Males,2016,Testis,British Columbia,0.51%,0.43%,0.61%,196,232,165
+Females,2016,Testis,British Columbia,*0.00%,0.00%,0.03%,*-,-,3287
+Males,2017,Testis,British Columbia,0.42%,0.35%,0.51%,238,284,198
+Females,2017,Testis,British Columbia,*0.00%,0.00%,0.03%,*-,-,3542
+Males,1991,Cervix,British Columbia,*0.00%,0.00%,0.06%,*-,-,1563
+Females,1991,Cervix,British Columbia,0.72%,0.60%,0.88%,138,165,114
+Males,1992,Cervix,British Columbia,*0.00%,0.00%,0.06%,*-,-,1543
+Females,1992,Cervix,British Columbia,0.78%,0.65%,0.93%,128,153,107
+Males,1993,Cervix,British Columbia,*0.00%,0.00%,0.06%,*-,-,1738
+Females,1993,Cervix,British Columbia,0.76%,0.64%,0.92%,131,156,109
+Males,1994,Cervix,British Columbia,*0.00%,0.00%,0.06%,*-,-,1629
+Females,1994,Cervix,British Columbia,0.82%,0.69%,0.97%,122,144,103
+Males,1995,Cervix,British Columbia,*0.00%,0.00%,0.06%,*-,-,1645
+Females,1995,Cervix,British Columbia,0.84%,0.71%,0.99%,120,141,101
+Males,1996,Cervix,British Columbia,*0.00%,0.00%,0.05%,*-,-,1857
+Females,1996,Cervix,British Columbia,0.70%,0.59%,0.84%,142,169,119
+Males,1997,Cervix,British Columbia,*0.00%,0.00%,0.06%,*-,-,1775
+Females,1997,Cervix,British Columbia,0.62%,0.52%,0.74%,162,194,135
+Males,1998,Cervix,British Columbia,*0.00%,0.00%,0.06%,*-,-,1733
+Females,1998,Cervix,British Columbia,0.79%,0.68%,0.93%,127,148,108
+Males,1999,Cervix,British Columbia,*0.00%,0.00%,0.05%,*-,-,1874
+Females,1999,Cervix,British Columbia,0.77%,0.66%,0.92%,129,152,109
+Males,2000,Cervix,British Columbia,*0.00%,0.00%,0.06%,*-,-,1650
+Females,2000,Cervix,British Columbia,0.55%,0.45%,0.66%,183,221,151
+Males,2001,Cervix,British Columbia,*0.00%,0.00%,0.06%,*-,-,1768
+Females,2001,Cervix,British Columbia,0.59%,0.50%,0.72%,169,202,140
+Males,2002,Cervix,British Columbia,*0.00%,0.00%,0.06%,*-,-,1702
+Females,2002,Cervix,British Columbia,0.73%,0.62%,0.86%,138,162,116
+Males,2003,Cervix,British Columbia,*0.00%,0.00%,0.06%,*-,-,1745
+Females,2003,Cervix,British Columbia,0.59%,0.50%,0.71%,170,202,142
+Males,2004,Cervix,British Columbia,*0.00%,0.00%,0.05%,*-,-,1833
+Females,2004,Cervix,British Columbia,0.58%,0.49%,0.70%,171,204,143
+Males,2005,Cervix,British Columbia,*0.00%,0.00%,0.05%,*-,-,1934
+Females,2005,Cervix,British Columbia,0.56%,0.48%,0.67%,177,210,149
+Males,2006,Cervix,British Columbia,*0.00%,0.00%,0.05%,*-,-,1913
+Females,2006,Cervix,British Columbia,0.56%,0.47%,0.68%,178,212,148
+Males,2007,Cervix,British Columbia,*0.00%,0.00%,0.05%,*-,-,2010
+Females,2007,Cervix,British Columbia,0.61%,0.51%,0.72%,165,195,139
+Males,2008,Cervix,British Columbia,*0.00%,0.00%,0.05%,*-,-,2026
+Females,2008,Cervix,British Columbia,0.64%,0.54%,0.75%,157,185,133
+Males,2009,Cervix,British Columbia,*0.00%,0.00%,0.05%,*-,-,1940
+Females,2009,Cervix,British Columbia,0.66%,0.56%,0.77%,153,178,130
+Males,2010,Cervix,British Columbia,*0.00%,0.00%,0.05%,*-,-,2021
+Females,2010,Cervix,British Columbia,0.65%,0.56%,0.76%,153,178,131
+Males,2011,Cervix,British Columbia,*0.00%,0.00%,0.05%,*-,-,2085
+Females,2011,Cervix,British Columbia,0.65%,0.55%,0.76%,155,181,132
+Males,2012,Cervix,British Columbia,*0.00%,0.00%,0.05%,*-,-,2220
+Females,2012,Cervix,British Columbia,0.60%,0.51%,0.70%,168,198,142
+Males,2013,Cervix,British Columbia,*0.00%,0.00%,0.05%,*-,-,2222
+Females,2013,Cervix,British Columbia,0.60%,0.51%,0.71%,166,194,141
+Males,2014,Cervix,British Columbia,*0.00%,0.00%,0.05%,"*38,807","1,532,819",2153
+Females,2014,Cervix,British Columbia,0.66%,0.56%,0.77%,152,179,130
+Males,2015,Cervix,British Columbia,*0.00%,0.00%,0.04%,*-,-,2543
+Females,2015,Cervix,British Columbia,0.60%,0.51%,0.71%,166,195,141
+Males,2016,Cervix,British Columbia,*0.00%,0.00%,0.04%,*-,-,2694
+Females,2016,Cervix,British Columbia,0.53%,0.45%,0.63%,187,221,158
+Males,2017,Cervix,British Columbia,*0.00%,0.00%,0.03%,*-,-,2935
+Females,2017,Cervix,British Columbia,0.57%,0.49%,0.67%,174,203,149
+Males,1991,Brain,British Columbia,0.69%,0.57%,0.85%,144,175,118
+Females,1991,Brain,British Columbia,0.56%,0.45%,0.70%,179,222,143
+Males,1992,Brain,British Columbia,0.72%,0.60%,0.87%,140,168,115
+Females,1992,Brain,British Columbia,0.42%,0.33%,0.55%,237,305,182
+Males,1993,Brain,British Columbia,0.72%,0.59%,0.87%,139,169,114
+Females,1993,Brain,British Columbia,0.57%,0.46%,0.71%,176,219,141
+Males,1994,Brain,British Columbia,0.68%,0.56%,0.83%,147,178,121
+Females,1994,Brain,British Columbia,0.58%,0.48%,0.72%,171,210,138
+Males,1995,Brain,British Columbia,0.76%,0.63%,0.91%,132,158,110
+Females,1995,Brain,British Columbia,0.54%,0.43%,0.68%,186,233,148
+Males,1996,Brain,British Columbia,0.78%,0.66%,0.92%,129,152,108
+Females,1996,Brain,British Columbia,0.49%,0.39%,0.62%,203,254,161
+Males,1997,Brain,British Columbia,0.71%,0.60%,0.86%,141,168,117
+Females,1997,Brain,British Columbia,0.61%,0.50%,0.75%,164,199,133
+Males,1998,Brain,British Columbia,0.64%,0.54%,0.77%,156,187,129
+Females,1998,Brain,British Columbia,0.52%,0.42%,0.64%,192,237,155
+Males,1999,Brain,British Columbia,0.78%,0.66%,0.92%,129,152,108
+Females,1999,Brain,British Columbia,0.66%,0.54%,0.80%,152,184,125
+Males,2000,Brain,British Columbia,0.68%,0.56%,0.82%,148,178,121
+Females,2000,Brain,British Columbia,0.55%,0.44%,0.68%,183,226,148
+Males,2001,Brain,British Columbia,0.74%,0.63%,0.89%,134,159,112
+Females,2001,Brain,British Columbia,0.62%,0.51%,0.75%,162,196,133
+Males,2002,Brain,British Columbia,0.79%,0.67%,0.95%,126,149,106
+Females,2002,Brain,British Columbia,0.60%,0.50%,0.73%,166,201,137
+Males,2003,Brain,British Columbia,0.74%,0.62%,0.89%,135,161,113
+Females,2003,Brain,British Columbia,0.54%,0.44%,0.67%,184,226,150
+Males,2004,Brain,British Columbia,0.80%,0.68%,0.94%,126,148,106
+Females,2004,Brain,British Columbia,0.54%,0.44%,0.66%,185,225,151
+Males,2005,Brain,British Columbia,0.72%,0.61%,0.86%,138,164,116
+Females,2005,Brain,British Columbia,0.56%,0.46%,0.68%,179,218,147
+Males,2006,Brain,British Columbia,0.65%,0.55%,0.78%,154,183,128
+Females,2006,Brain,British Columbia,0.56%,0.46%,0.68%,179,217,147
+Males,2007,Brain,British Columbia,0.76%,0.64%,0.90%,132,155,111
+Females,2007,Brain,British Columbia,0.61%,0.50%,0.73%,164,198,136
+Males,2008,Brain,British Columbia,0.77%,0.65%,0.91%,131,154,110
+Females,2008,Brain,British Columbia,0.58%,0.48%,0.70%,172,207,142
+Males,2009,Brain,British Columbia,0.67%,0.56%,0.80%,150,179,125
+Females,2009,Brain,British Columbia,0.60%,0.50%,0.72%,168,202,140
+Males,2010,Brain,British Columbia,0.79%,0.67%,0.92%,127,148,108
+Females,2010,Brain,British Columbia,0.56%,0.46%,0.68%,179,216,147
+Males,2011,Brain,British Columbia,0.75%,0.64%,0.88%,133,156,113
+Females,2011,Brain,British Columbia,0.63%,0.53%,0.76%,158,190,132
+Males,2012,Brain,British Columbia,0.77%,0.66%,0.90%,130,151,112
+Females,2012,Brain,British Columbia,0.60%,0.50%,0.71%,168,200,140
+Males,2013,Brain,British Columbia,0.85%,0.74%,0.99%,117,135,101
+Females,2013,Brain,British Columbia,0.63%,0.53%,0.75%,159,189,133
+Males,2014,Brain,British Columbia,0.84%,0.72%,0.99%,118,138,101
+Females,2014,Brain,British Columbia,0.60%,0.51%,0.72%,165,197,138
+Males,2015,Brain,British Columbia,0.86%,0.74%,1.00%,116,134,100
+Females,2015,Brain,British Columbia,0.57%,0.48%,0.68%,175,210,147
+Males,2016,Brain,British Columbia,0.77%,0.67%,0.89%,130,150,112
+Females,2016,Brain,British Columbia,0.61%,0.51%,0.72%,164,195,138
+Males,2017,Brain,British Columbia,0.81%,0.70%,0.93%,124,143,107
+Females,2017,Brain,British Columbia,0.57%,0.48%,0.68%,175,208,147
+Males,1991,Ovary,British Columbia,*0.00%,0.00%,0.06%,*-,-,1563
+Females,1991,Ovary,British Columbia,1.72%,1.51%,1.96%,58,66,51
+Males,1992,Ovary,British Columbia,*0.00%,0.00%,0.06%,*-,-,1543
+Females,1992,Ovary,British Columbia,1.60%,1.40%,1.84%,62,71,54
+Males,1993,Ovary,British Columbia,*0.00%,0.00%,0.06%,*-,-,1738
+Females,1993,Ovary,British Columbia,1.37%,1.19%,1.58%,73,84,63
+Males,1994,Ovary,British Columbia,*0.00%,0.00%,0.06%,*-,-,1629
+Females,1994,Ovary,British Columbia,1.38%,1.21%,1.59%,72,83,63
+Males,1995,Ovary,British Columbia,*0.00%,0.00%,0.06%,*-,-,1645
+Females,1995,Ovary,British Columbia,1.48%,1.29%,1.69%,68,77,59
+Males,1996,Ovary,British Columbia,*0.00%,0.00%,0.05%,*-,-,1857
+Females,1996,Ovary,British Columbia,1.51%,1.32%,1.72%,66,76,58
+Males,1997,Ovary,British Columbia,*0.00%,0.00%,0.06%,*-,-,1775
+Females,1997,Ovary,British Columbia,1.55%,1.37%,1.77%,64,73,56
+Males,1998,Ovary,British Columbia,*0.00%,0.00%,0.06%,*-,-,1733
+Females,1998,Ovary,British Columbia,1.42%,1.24%,1.62%,71,81,62
+Males,1999,Ovary,British Columbia,*0.00%,0.00%,0.05%,*-,-,1874
+Females,1999,Ovary,British Columbia,1.48%,1.30%,1.68%,68,77,60
+Males,2000,Ovary,British Columbia,*0.00%,0.00%,0.06%,*-,-,1650
+Females,2000,Ovary,British Columbia,1.49%,1.30%,1.70%,67,77,59
+Males,2001,Ovary,British Columbia,*0.00%,0.00%,0.06%,*-,-,1768
+Females,2001,Ovary,British Columbia,1.50%,1.32%,1.70%,67,76,59
+Males,2002,Ovary,British Columbia,*0.00%,0.00%,0.06%,*-,-,1702
+Females,2002,Ovary,British Columbia,1.34%,1.18%,1.53%,74,85,65
+Males,2003,Ovary,British Columbia,*0.00%,0.00%,0.06%,*-,-,1745
+Females,2003,Ovary,British Columbia,1.24%,1.09%,1.42%,81,92,70
+Males,2004,Ovary,British Columbia,*0.00%,0.00%,0.05%,*-,-,1833
+Females,2004,Ovary,British Columbia,1.31%,1.15%,1.49%,76,87,67
+Males,2005,Ovary,British Columbia,*0.00%,0.00%,0.05%,*-,-,1934
+Females,2005,Ovary,British Columbia,1.53%,1.36%,1.73%,65,74,58
+Males,2006,Ovary,British Columbia,*0.00%,0.00%,0.05%,*-,-,1913
+Females,2006,Ovary,British Columbia,1.44%,1.27%,1.63%,69,79,61
+Males,2007,Ovary,British Columbia,*0.00%,0.00%,0.05%,*-,-,2010
+Females,2007,Ovary,British Columbia,1.37%,1.20%,1.55%,73,83,65
+Males,2008,Ovary,British Columbia,*0.00%,0.00%,0.05%,*-,-,2026
+Females,2008,Ovary,British Columbia,1.31%,1.15%,1.49%,76,87,67
+Males,2009,Ovary,British Columbia,*0.00%,0.00%,0.05%,*-,-,1940
+Females,2009,Ovary,British Columbia,1.26%,1.11%,1.43%,79,90,70
+Males,2010,Ovary,British Columbia,*0.00%,0.00%,0.05%,*-,-,2021
+Females,2010,Ovary,British Columbia,1.47%,1.30%,1.66%,68,77,60
+Males,2011,Ovary,British Columbia,*0.00%,0.00%,0.05%,*-,-,2085
+Females,2011,Ovary,British Columbia,1.49%,1.33%,1.68%,67,75,59
+Males,2012,Ovary,British Columbia,*0.00%,0.00%,0.05%,*-,-,2220
+Females,2012,Ovary,British Columbia,1.36%,1.21%,1.53%,74,83,65
+Males,2013,Ovary,British Columbia,*0.00%,0.00%,0.05%,*-,-,2222
+Females,2013,Ovary,British Columbia,1.59%,1.43%,1.77%,63,70,56
+Males,2014,Ovary,British Columbia,*0.00%,0.00%,0.04%,*-,-,2265
+Females,2014,Ovary,British Columbia,1.69%,1.52%,1.88%,59,66,53
+Males,2015,Ovary,British Columbia,*0.00%,0.00%,0.04%,*-,-,2543
+Females,2015,Ovary,British Columbia,1.36%,1.22%,1.52%,73,82,66
+Males,2016,Ovary,British Columbia,*0.00%,0.00%,0.04%,*-,-,2694
+Females,2016,Ovary,British Columbia,1.23%,1.09%,1.38%,82,92,72
+Males,2017,Ovary,British Columbia,*0.00%,0.00%,0.03%,*-,-,2935
+Females,2017,Ovary,British Columbia,1.21%,1.07%,1.37%,82,93,73
+Males,1991,Esophagus,British Columbia,0.77%,0.64%,0.94%,130,157,106
+Females,1991,Esophagus,British Columbia,0.37%,0.26%,0.51%,271,381,194
+Males,1992,Esophagus,British Columbia,0.77%,0.63%,0.94%,130,158,107
+Females,1992,Esophagus,British Columbia,0.38%,0.27%,0.52%,265,365,194
+Males,1993,Esophagus,British Columbia,0.66%,0.54%,0.82%,151,186,123
+Females,1993,Esophagus,British Columbia,0.28%,0.20%,0.40%,357,509,251
+Males,1994,Esophagus,British Columbia,0.87%,0.71%,1.05%,116,140,95
+Females,1994,Esophagus,British Columbia,0.40%,0.29%,0.53%,253,343,188
+Males,1995,Esophagus,British Columbia,0.72%,0.59%,0.88%,139,171,113
+Females,1995,Esophagus,British Columbia,0.30%,0.21%,0.42%,335,473,238
+Males,1996,Esophagus,British Columbia,0.77%,0.64%,0.93%,130,157,107
+Females,1996,Esophagus,British Columbia,0.31%,0.22%,0.42%,326,450,236
+Males,1997,Esophagus,British Columbia,0.77%,0.65%,0.93%,129,155,108
+Females,1997,Esophagus,British Columbia,0.41%,0.31%,0.54%,244,324,185
+Males,1998,Esophagus,British Columbia,0.75%,0.62%,0.91%,133,161,109
+Females,1998,Esophagus,British Columbia,0.35%,0.26%,0.46%,289,389,216
+Males,1999,Esophagus,British Columbia,0.71%,0.59%,0.86%,141,171,116
+Females,1999,Esophagus,British Columbia,0.26%,0.19%,0.37%,379,534,269
+Males,2000,Esophagus,British Columbia,0.85%,0.71%,1.03%,117,141,97
+Females,2000,Esophagus,British Columbia,0.39%,0.30%,0.52%,254,339,191
+Males,2001,Esophagus,British Columbia,0.83%,0.70%,1.00%,120,144,100
+Females,2001,Esophagus,British Columbia,0.40%,0.31%,0.53%,249,327,190
+Males,2002,Esophagus,British Columbia,0.70%,0.58%,0.85%,143,173,118
+Females,2002,Esophagus,British Columbia,0.40%,0.31%,0.52%,249,326,191
+Males,2003,Esophagus,British Columbia,0.88%,0.74%,1.04%,114,135,96
+Females,2003,Esophagus,British Columbia,0.41%,0.31%,0.53%,245,318,190
+Males,2004,Esophagus,British Columbia,0.89%,0.75%,1.05%,113,134,95
+Females,2004,Esophagus,British Columbia,0.39%,0.29%,0.51%,259,342,197
+Males,2005,Esophagus,British Columbia,0.69%,0.57%,0.84%,145,175,119
+Females,2005,Esophagus,British Columbia,0.47%,0.36%,0.60%,215,277,168
+Males,2006,Esophagus,British Columbia,0.91%,0.76%,1.08%,110,131,93
+Females,2006,Esophagus,British Columbia,0.36%,0.28%,0.47%,275,360,212
+Males,2007,Esophagus,British Columbia,0.73%,0.61%,0.88%,136,163,113
+Females,2007,Esophagus,British Columbia,0.33%,0.25%,0.43%,304,398,233
+Males,2008,Esophagus,British Columbia,0.90%,0.76%,1.06%,112,131,94
+Females,2008,Esophagus,British Columbia,0.30%,0.22%,0.39%,336,448,253
+Males,2009,Esophagus,British Columbia,0.89%,0.77%,1.05%,112,131,95
+Females,2009,Esophagus,British Columbia,0.32%,0.25%,0.43%,308,407,234
+Males,2010,Esophagus,British Columbia,0.97%,0.83%,1.14%,103,120,87
+Females,2010,Esophagus,British Columbia,0.29%,0.21%,0.39%,347,467,259
+Males,2011,Esophagus,British Columbia,0.86%,0.73%,1.02%,116,136,98
+Females,2011,Esophagus,British Columbia,0.38%,0.29%,0.48%,266,343,206
+Males,2012,Esophagus,British Columbia,0.98%,0.85%,1.14%,102,118,87
+Females,2012,Esophagus,British Columbia,0.43%,0.34%,0.54%,232,291,185
+Males,2013,Esophagus,British Columbia,0.94%,0.80%,1.10%,107,125,91
+Females,2013,Esophagus,British Columbia,0.34%,0.26%,0.43%,298,387,231
+Males,2014,Esophagus,British Columbia,1.04%,0.90%,1.21%,96,111,83
+Females,2014,Esophagus,British Columbia,0.35%,0.27%,0.45%,288,372,224
+Males,2015,Esophagus,British Columbia,0.94%,0.81%,1.09%,107,124,92
+Females,2015,Esophagus,British Columbia,0.40%,0.31%,0.51%,250,318,198
+Males,2016,Esophagus,British Columbia,1.05%,0.92%,1.20%,95,109,83
+Females,2016,Esophagus,British Columbia,0.36%,0.28%,0.46%,276,355,215
+Males,2017,Esophagus,British Columbia,0.95%,0.83%,1.08%,106,120,93
+Females,2017,Esophagus,British Columbia,0.40%,0.32%,0.50%,250,313,201
+Males,1991,Multiple Myeloma,British Columbia,0.50%,0.38%,0.65%,201,261,154
+Females,1991,Multiple Myeloma,British Columbia,0.53%,0.41%,0.68%,189,243,146
+Males,1992,Multiple Myeloma,British Columbia,0.64%,0.52%,0.80%,156,193,124
+Females,1992,Multiple Myeloma,British Columbia,0.43%,0.32%,0.57%,233,310,175
+Males,1993,Multiple Myeloma,British Columbia,0.59%,0.46%,0.74%,171,216,135
+Females,1993,Multiple Myeloma,British Columbia,0.59%,0.46%,0.75%,170,216,133
+Males,1994,Multiple Myeloma,British Columbia,0.59%,0.47%,0.74%,171,215,135
+Females,1994,Multiple Myeloma,British Columbia,0.54%,0.43%,0.69%,185,235,146
+Males,1995,Multiple Myeloma,British Columbia,0.74%,0.61%,0.91%,134,163,110
+Females,1995,Multiple Myeloma,British Columbia,0.53%,0.42%,0.68%,187,239,146
+Males,1996,Multiple Myeloma,British Columbia,0.54%,0.42%,0.69%,185,235,145
+Females,1996,Multiple Myeloma,British Columbia,0.48%,0.38%,0.61%,208,265,163
+Males,1997,Multiple Myeloma,British Columbia,0.81%,0.67%,0.98%,124,149,102
+Females,1997,Multiple Myeloma,British Columbia,0.60%,0.48%,0.75%,166,208,133
+Males,1998,Multiple Myeloma,British Columbia,0.66%,0.52%,0.82%,152,191,122
+Females,1998,Multiple Myeloma,British Columbia,0.48%,0.37%,0.61%,210,268,164
+Males,1999,Multiple Myeloma,British Columbia,0.72%,0.59%,0.88%,139,170,113
+Females,1999,Multiple Myeloma,British Columbia,0.59%,0.48%,0.73%,169,210,136
+Males,2000,Multiple Myeloma,British Columbia,0.64%,0.51%,0.79%,157,195,126
+Females,2000,Multiple Myeloma,British Columbia,0.58%,0.46%,0.72%,174,217,139
+Males,2001,Multiple Myeloma,British Columbia,0.66%,0.54%,0.81%,151,184,124
+Females,2001,Multiple Myeloma,British Columbia,0.58%,0.47%,0.72%,172,212,139
+Males,2002,Multiple Myeloma,British Columbia,0.64%,0.52%,0.78%,157,192,128
+Females,2002,Multiple Myeloma,British Columbia,0.52%,0.42%,0.65%,193,241,155
+Males,2003,Multiple Myeloma,British Columbia,0.60%,0.48%,0.75%,166,206,134
+Females,2003,Multiple Myeloma,British Columbia,0.51%,0.40%,0.64%,196,248,156
+Males,2004,Multiple Myeloma,British Columbia,0.71%,0.58%,0.86%,142,171,117
+Females,2004,Multiple Myeloma,British Columbia,0.40%,0.31%,0.51%,248,318,194
+Males,2005,Multiple Myeloma,British Columbia,0.79%,0.65%,0.96%,127,154,104
+Females,2005,Multiple Myeloma,British Columbia,0.49%,0.39%,0.61%,205,258,163
+Males,2006,Multiple Myeloma,British Columbia,0.63%,0.52%,0.78%,158,194,129
+Females,2006,Multiple Myeloma,British Columbia,0.49%,0.39%,0.61%,204,256,163
+Males,2007,Multiple Myeloma,British Columbia,0.87%,0.74%,1.04%,114,136,96
+Females,2007,Multiple Myeloma,British Columbia,0.59%,0.48%,0.73%,169,208,138
+Males,2008,Multiple Myeloma,British Columbia,0.65%,0.54%,0.78%,154,186,128
+Females,2008,Multiple Myeloma,British Columbia,0.57%,0.47%,0.70%,175,213,143
+Males,2009,Multiple Myeloma,British Columbia,0.76%,0.64%,0.91%,132,157,110
+Females,2009,Multiple Myeloma,British Columbia,0.68%,0.57%,0.82%,146,175,122
+Males,2010,Multiple Myeloma,British Columbia,0.88%,0.75%,1.03%,114,133,97
+Females,2010,Multiple Myeloma,British Columbia,0.73%,0.61%,0.88%,136,164,114
+Males,2011,Multiple Myeloma,British Columbia,0.76%,0.64%,0.91%,132,157,110
+Females,2011,Multiple Myeloma,British Columbia,0.56%,0.46%,0.69%,178,219,146
+Males,2012,Multiple Myeloma,British Columbia,0.83%,0.71%,0.98%,120,140,102
+Females,2012,Multiple Myeloma,British Columbia,0.76%,0.64%,0.90%,132,157,111
+Males,2013,Multiple Myeloma,British Columbia,0.96%,0.82%,1.12%,104,122,89
+Females,2013,Multiple Myeloma,British Columbia,0.64%,0.53%,0.77%,157,190,131
+Males,2014,Multiple Myeloma,British Columbia,0.83%,0.71%,0.98%,121,142,102
+Females,2014,Multiple Myeloma,British Columbia,0.66%,0.55%,0.80%,151,181,126
+Males,2015,Multiple Myeloma,British Columbia,0.96%,0.83%,1.11%,104,121,90
+Females,2015,Multiple Myeloma,British Columbia,0.75%,0.64%,0.89%,133,157,113
+Males,2016,Multiple Myeloma,British Columbia,1.00%,0.87%,1.16%,100,115,86
+Females,2016,Multiple Myeloma,British Columbia,0.76%,0.64%,0.89%,132,156,112
+Males,2017,Multiple Myeloma,British Columbia,1.01%,0.88%,1.15%,99,114,87
+Females,2017,Multiple Myeloma,British Columbia,0.61%,0.51%,0.73%,163,195,137
+Males,1991,Hodgkin Lymphoma,British Columbia,0.15%,0.11%,0.24%,654,946,421
+Females,1991,Hodgkin Lymphoma,British Columbia,0.17%,0.11%,0.25%,602,873,394
+Males,1992,Hodgkin Lymphoma,British Columbia,0.20%,0.14%,0.30%,500,720,335
+Females,1992,Hodgkin Lymphoma,British Columbia,0.20%,0.15%,0.30%,488,687,336
+Males,1993,Hodgkin Lymphoma,British Columbia,0.22%,0.16%,0.31%,459,631,323
+Females,1993,Hodgkin Lymphoma,British Columbia,0.18%,0.13%,0.26%,567,798,385
+Males,1994,Hodgkin Lymphoma,British Columbia,0.21%,0.16%,0.31%,466,637,327
+Females,1994,Hodgkin Lymphoma,British Columbia,0.13%,0.09%,0.21%,741,"1,119",469
+Males,1995,Hodgkin Lymphoma,British Columbia,0.25%,0.19%,0.34%,405,540,293
+Females,1995,Hodgkin Lymphoma,British Columbia,0.19%,0.14%,0.28%,525,734,362
+Males,1996,Hodgkin Lymphoma,British Columbia,0.19%,0.14%,0.28%,517,710,362
+Females,1996,Hodgkin Lymphoma,British Columbia,0.20%,0.15%,0.28%,503,688,355
+Males,1997,Hodgkin Lymphoma,British Columbia,0.18%,0.13%,0.26%,564,775,389
+Females,1997,Hodgkin Lymphoma,British Columbia,0.16%,0.11%,0.24%,618,871,418
+Males,1998,Hodgkin Lymphoma,British Columbia,0.24%,0.18%,0.33%,423,567,305
+Females,1998,Hodgkin Lymphoma,British Columbia,0.14%,0.10%,0.21%,714,"1,034",473
+Males,1999,Hodgkin Lymphoma,British Columbia,0.21%,0.16%,0.29%,479,639,344
+Females,1999,Hodgkin Lymphoma,British Columbia,0.16%,0.11%,0.24%,622,901,416
+Males,2000,Hodgkin Lymphoma,British Columbia,0.23%,0.17%,0.32%,443,592,317
+Females,2000,Hodgkin Lymphoma,British Columbia,0.13%,0.09%,0.21%,741,"1,099",480
+Males,2001,Hodgkin Lymphoma,British Columbia,0.23%,0.17%,0.31%,444,592,320
+Females,2001,Hodgkin Lymphoma,British Columbia,0.12%,0.08%,0.19%,820,"1,228",523
+Males,2002,Hodgkin Lymphoma,British Columbia,0.25%,0.19%,0.35%,397,536,285
+Females,2002,Hodgkin Lymphoma,British Columbia,0.24%,0.18%,0.32%,413,544,308
+Males,2003,Hodgkin Lymphoma,British Columbia,0.22%,0.16%,0.30%,464,621,332
+Females,2003,Hodgkin Lymphoma,British Columbia,0.17%,0.12%,0.24%,591,820,416
+Males,2004,Hodgkin Lymphoma,British Columbia,0.23%,0.17%,0.31%,444,584,323
+Females,2004,Hodgkin Lymphoma,British Columbia,0.18%,0.12%,0.25%,569,802,399
+Males,2005,Hodgkin Lymphoma,British Columbia,0.22%,0.17%,0.31%,452,604,328
+Females,2005,Hodgkin Lymphoma,British Columbia,0.20%,0.15%,0.27%,506,689,366
+Males,2006,Hodgkin Lymphoma,British Columbia,0.17%,0.12%,0.25%,592,829,405
+Females,2006,Hodgkin Lymphoma,British Columbia,0.17%,0.12%,0.24%,590,818,418
+Males,2007,Hodgkin Lymphoma,British Columbia,0.18%,0.13%,0.26%,552,748,390
+Females,2007,Hodgkin Lymphoma,British Columbia,0.18%,0.14%,0.25%,543,737,392
+Males,2008,Hodgkin Lymphoma,British Columbia,0.26%,0.20%,0.34%,390,503,294
+Females,2008,Hodgkin Lymphoma,British Columbia,0.19%,0.14%,0.26%,537,729,389
+Males,2009,Hodgkin Lymphoma,British Columbia,0.23%,0.18%,0.31%,430,563,318
+Females,2009,Hodgkin Lymphoma,British Columbia,0.19%,0.14%,0.25%,540,728,392
+Males,2010,Hodgkin Lymphoma,British Columbia,0.17%,0.12%,0.24%,591,805,414
+Females,2010,Hodgkin Lymphoma,British Columbia,0.18%,0.13%,0.25%,551,746,400
+Males,2011,Hodgkin Lymphoma,British Columbia,0.19%,0.14%,0.26%,540,725,386
+Females,2011,Hodgkin Lymphoma,British Columbia,0.17%,0.12%,0.24%,586,811,418
+Males,2012,Hodgkin Lymphoma,British Columbia,0.19%,0.15%,0.27%,516,685,375
+Females,2012,Hodgkin Lymphoma,British Columbia,0.20%,0.15%,0.27%,492,657,364
+Males,2013,Hodgkin Lymphoma,British Columbia,0.27%,0.21%,0.35%,372,483,282
+Females,2013,Hodgkin Lymphoma,British Columbia,0.17%,0.12%,0.23%,604,835,432
+Males,2014,Hodgkin Lymphoma,British Columbia,0.24%,0.19%,0.32%,409,527,310
+Females,2014,Hodgkin Lymphoma,British Columbia,0.15%,0.11%,0.21%,662,933,466
+Males,2015,Hodgkin Lymphoma,British Columbia,0.24%,0.18%,0.31%,420,544,318
+Females,2015,Hodgkin Lymphoma,British Columbia,0.22%,0.17%,0.29%,455,595,346
+Males,2016,Hodgkin Lymphoma,British Columbia,0.18%,0.13%,0.24%,561,749,411
+Females,2016,Hodgkin Lymphoma,British Columbia,0.17%,0.13%,0.23%,585,786,430
+Males,2017,Hodgkin Lymphoma,British Columbia,0.26%,0.20%,0.33%,386,488,301
+Females,2017,Hodgkin Lymphoma,British Columbia,0.14%,0.10%,0.19%,740,"1,034",525
+Males,1991,All Cancers,British Columbia,53.71%,52.36%,55.10%,2,2,2
+Males,1992,All Cancers,British Columbia,54.93%,53.57%,56.32%,2,2,2
+Males,1993,All Cancers,British Columbia,56.58%,55.23%,57.96%,2,2,2
+Males,1994,All Cancers,British Columbia,53.42%,52.13%,54.74%,2,2,2
+Males,1995,All Cancers,British Columbia,51.52%,50.27%,52.81%,2,2,2
+Males,1996,All Cancers,British Columbia,51.74%,50.51%,53.00%,2,2,2
+Males,1997,All Cancers,British Columbia,52.95%,51.70%,54.22%,2,2,2
+Males,1998,All Cancers,British Columbia,52.45%,51.20%,53.72%,2,2,2
+Males,1999,All Cancers,British Columbia,56.81%,55.53%,58.12%,2,2,2
+Males,2000,All Cancers,British Columbia,56.90%,55.59%,58.24%,2,2,2
+Males,2001,All Cancers,British Columbia,56.52%,55.26%,57.81%,2,2,2
+Males,2002,All Cancers,British Columbia,54.42%,53.20%,55.68%,2,2,2
+Males,2003,All Cancers,British Columbia,54.28%,53.05%,55.54%,2,2,2
+Males,2004,All Cancers,British Columbia,53.04%,51.85%,54.26%,2,2,2
+Males,2005,All Cancers,British Columbia,53.97%,52.77%,55.19%,2,2,2
+Males,2006,All Cancers,British Columbia,55.85%,54.64%,57.10%,2,2,2
+Males,2007,All Cancers,British Columbia,58.87%,57.64%,60.13%,2,2,2
+Males,2008,All Cancers,British Columbia,57.42%,56.22%,58.65%,2,2,2
+Males,2009,All Cancers,British Columbia,58.49%,57.29%,59.73%,2,2,2
+Males,2010,All Cancers,British Columbia,58.87%,57.66%,60.10%,2,2,2
+Males,2011,All Cancers,British Columbia,59.22%,58.03%,60.43%,2,2,2
+Males,2012,All Cancers,British Columbia,60.15%,58.95%,61.37%,2,2,2
+Males,2013,All Cancers,British Columbia,60.18%,58.97%,61.41%,2,2,2
+Males,2014,All Cancers,British Columbia,58.09%,56.91%,59.28%,2,2,2
+Males,2015,All Cancers,British Columbia,57.74%,56.61%,58.89%,2,2,2
+Males,2016,All Cancers,British Columbia,56.65%,55.56%,57.76%,2,2,2
+Males,2017,All Cancers,British Columbia,53.94%,52.91%,54.99%,2,2,2
+Females,1991,All Cancers,British Columbia,44.02%,42.85%,45.21%,2,2,2
+Females,1992,All Cancers,British Columbia,45.10%,43.94%,46.29%,2,2,2
+Females,1993,All Cancers,British Columbia,45.58%,44.42%,46.77%,2,2,2
+Females,1994,All Cancers,British Columbia,43.37%,42.26%,44.51%,2,2,2
+Females,1995,All Cancers,British Columbia,44.16%,43.06%,45.30%,2,2,2
+Females,1996,All Cancers,British Columbia,45.06%,43.96%,46.19%,2,2,2
+Females,1997,All Cancers,British Columbia,45.17%,44.08%,46.29%,2,2,2
+Females,1998,All Cancers,British Columbia,45.35%,44.27%,46.44%,2,2,2
+Females,1999,All Cancers,British Columbia,46.07%,44.98%,47.19%,2,2,2
+Females,2000,All Cancers,British Columbia,46.60%,45.50%,47.72%,2,2,2
+Females,2001,All Cancers,British Columbia,46.70%,45.62%,47.82%,2,2,2
+Females,2002,All Cancers,British Columbia,46.71%,45.65%,47.79%,2,2,2
+Females,2003,All Cancers,British Columbia,45.43%,44.40%,46.49%,2,2,2
+Females,2004,All Cancers,British Columbia,45.44%,44.41%,46.49%,2,2,2
+Females,2005,All Cancers,British Columbia,46.43%,45.40%,47.48%,2,2,2
+Females,2006,All Cancers,British Columbia,46.69%,45.67%,47.73%,2,2,2
+Females,2007,All Cancers,British Columbia,48.26%,47.22%,49.32%,2,2,2
+Females,2008,All Cancers,British Columbia,47.76%,46.74%,48.80%,2,2,2
+Females,2009,All Cancers,British Columbia,50.38%,49.33%,51.45%,2,2,2
+Females,2010,All Cancers,British Columbia,50.85%,49.81%,51.92%,2,2,2
+Females,2011,All Cancers,British Columbia,51.90%,50.85%,52.97%,2,2,2
+Females,2012,All Cancers,British Columbia,53.57%,52.50%,54.66%,2,2,2
+Females,2013,All Cancers,British Columbia,53.38%,52.33%,54.46%,2,2,2
+Females,2014,All Cancers,British Columbia,53.87%,52.82%,54.95%,2,2,2
+Females,2015,All Cancers,British Columbia,52.70%,51.68%,53.73%,2,2,2
+Females,2016,All Cancers,British Columbia,51.66%,50.67%,52.67%,2,2,2
+Females,2017,All Cancers,British Columbia,50.76%,49.79%,51.75%,2,2,2
