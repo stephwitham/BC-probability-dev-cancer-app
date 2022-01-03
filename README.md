@@ -12,6 +12,8 @@ Contributors: [Jonathan Simkin](https://github.com/jdsimkin04)
 
 The dashboard was developed as part of a Masters of Public Health (MPH) practicum project and is for demonstration purposes. More information can be found on the [BC Cancer website](http://www.bccancer.bc.ca/health-info/disease-system-statistics).
 
+![Screenshot](https://github.com/stephwitham/BC-probability-dev-cancer-app/blob/main/screenshot.png)
+
 
 ## Background
 Cancer is the leading cause of death for Canadians, and the lifetime probability of developing cancer is commonly used as a statistic in national level surveillance reports. The latest data estimates that 1 in 2 Canadians will develop cancer at some point in their lifetime, but little is known about the stability of this estimate.
