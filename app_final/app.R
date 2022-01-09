@@ -110,7 +110,8 @@ ui <- bs4DashPage(
                 label = div(HTML("<font size=3 color=\"#021324\"><b> Select Cancer Site </b></font>")),
                 choices = site_list, 
                 selected = site_list[7],
-                multiple = TRUE)
+                multiple = TRUE,
+                pickerOptions(size = 10))
   ),
   
   bs4DashBody(
@@ -158,10 +159,14 @@ ui <- bs4DashPage(
         tabName = "menu_3",
         fluidRow(
           bs4Card(
-            title = "Using the App",
-            HTML("Use the side navigation bar to select year, sex, and cancer type to display the probability of developing cancer in the 'Lifetime Probability' tab. You can compare your selections in the 'Datatable' tab.
+            title = "The Dashboard",
+            HTML("The dashboard was developed as part of a Masters of Public Health (MPH) practicum project and is for demonstration purposes. Official and more up-to-date data can be found on the BC Cancer website
 <br>
-Note that the Wafflechart is best used for single selections only (i.e.: female, breast, 2017). If there are multiple selections it will display a cumulative probability of all selections which is not statistically validated in this app."),
+<br>
+To use the dashboard, select your variables of the left navigation bar (year, sex, and cancer type). This will display the probability of developing cancer for the selected variables in the 'Lifetime Probability' tab. You can also view results and compare your selections in the 'Datatable' tab.
+<br>
+<br>
+The wafflechart will self-update with the selected variables. Note that the wafflechart is best used for single selections only (i.e.: female, breast, 2017). If there are multiple selections it will display a cumulative probability of all selections which is not statistically validated in this app."),
             width = 12
           ),
           
