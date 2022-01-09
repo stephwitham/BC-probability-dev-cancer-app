@@ -3,14 +3,9 @@
 > An interactive dashboard that displays the probability of developing cancer by year, sex, and cancer type in the province of BC 📈
 
 
-Author: [Stephanie Witham](https://github.com/stephwitham)
-<br>
-Contributors: [Jonathan Simkin](https://github.com/jdsimkin04)
-
-
 ## Overview 
 
-The dashboard was developed as part of a Masters of Public Health (MPH) practicum project and is for demonstration purposes. More information can be found on the [BC Cancer website](http://www.bccancer.bc.ca/health-info/disease-system-statistics).
+The dashboard was developed as part of a Masters of Public Health (MPH) practicum project and is for demonstration purposes. Official and more up-to-date data can be found on the [BC Cancer website](http://www.bccancer.bc.ca/health-info/disease-system-statistics).
 
 ![Screenshot](https://github.com/stephwitham/BC-probability-dev-cancer-app/blob/main/screenshot.png)
 
@@ -31,3 +26,8 @@ This project analyzed the lifetime probability estimate over time, by sex and ca
 
 Find the app online [here](https://switham.shinyapps.io/BC_Developing_Cancer_app/)
 
+Author: [Stephanie Witham](https://github.com/stephwitham)
+<br>
+Contributors: [Jonathan Simkin](https://github.com/jdsimkin04)
+<br>
+Acknowledgements: [Brittany Witham](https://github.com/brittwitham)
